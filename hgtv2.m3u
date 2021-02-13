@@ -1,0 +1,3 @@
+#EXTM3U url-logos="https://raw.githubusercontent.com/BurningC4/tvg-logo/master/"
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: HGTV HD" tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Server ID",Server ID: HGTV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
