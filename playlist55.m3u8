@@ -1,0 +1,2224 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Singpura" tvg-ID="Ch5.SG" tvg-chno="1" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.uhGVrv
+
+#EXTINF:-1 group-title="Singpura" tvg-ID="Ch8.SG" tvg-chno="2" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",8频道
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.5DIwcE
+
+#EXTINF:-1 group-title="Singpura" tvg-ID="ChU.SG" tvg-chno="3" tvg-logo="https://static.epg.best/sg/ChannelU.sg.png",U频道
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.x2quXi
+
+#EXTINF:-1 group-title="Singpura" tvg-ID="Vas.SG" tvg-chno="4" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png",Vasantham
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.3kaOsb
+
+#EXTINF:-1 group-title="Singpura" tvg-ID="Sur.SG" tvg-chno="5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.XsQJFo
+
+#EXTINF:-1 group-title="Singpura" tvg-ID="Cna.SG" tvg-chno="6" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png",Channel News Asia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Cthadu
+
+#EXTINF:-1 group-title="Malaysia" tvg-ID="TV1.MY" tvg-chno="7" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png",TV1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.uDiclI
+
+#EXTINF:-1 group-title="Malaysia" tvg-ID="TV2.MY" tvg-chno="8" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",TV2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ZUWaIr
+
+#EXTINF:-1 group-title="Malaysia" tvg-ID="TV3.MY" tvg-chno="9" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",TV3
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.kCRa%2Ft
+
+#EXTINF:-1 group-title="Malaysia" tvg-ID="TV7.MY" tvg-chno="10" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png",NTV 7
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.%2FzWdAC
+
+#EXTINF:-1 group-title="Malaysia" tvg-ID="8TV.MY" tvg-chno="11" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png",8TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Dx%2BFl8
+
+#EXTINF:-1 group-title="Malaysia" tvg-ID="TV9.MY" tvg-chno="12" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png",TV9
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.VVz69s
+
+#EXTINF:-1 group-title="Malaysia" tvg-ID="BRE.MY" tvg-chno="13" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.NRpUfW
+
+#EXTINF:-1 group-title="Malaysia" tvg-ID="RTS.MY" tvg-chno="14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png",RTM Sports
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.FVfGGS
+
+#EXTINF:-1 group-title="Malaysia" tvg-ID="Oky.MY" tvg-chno="15" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png",OKEY
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.o%2BR94F
+
+#EXTINF:-1 group-title="Malaysia" tvg-ID="Awa.MY" tvg-chno="16" tvg-logo="https://img.astroawani.com/template/awani.jpg",Astro Awani
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.LIW436
+
+#EXTINF:-1 group-title="Malaysia" tvg-chno="17" tvg-id="AEC.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png",Astro AEC
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.i8U2Ts
+
+#EXTINF:-1 group-title="Malaysia" tvg-chno="18" tvg-id="Cer.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.XmgbeX
+
+#EXTINF:-1 group-title="Malaysia" tvg-ID="Nau.MY" tvg-chno="19" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png",Astro Naura
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.FMUe2f
+
+#EXTINF:-1 group-title="Malaysia" tvg-chno="20" tvg-id="Pri.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png",Astro Prima
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.JA0mKE
+
+#EXTINF:-1 group-title="Malaysia" tvg-chno="21" tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png",Astro Ria
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.SXNCwE
+
+#EXTINF:-1 group-title="Malaysia" tvg-chno="22" tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.0HJT6U
+
+#EXTINF:-1 group-title="Malaysia" tvg-chno="23" tvg-id="Vaa.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png",Astro Vaanavil
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.vqzSrS
+
+#EXTINF:-1 group-title="Malaysia" tvg-chno="24" tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png",Astro Supersport
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.pUOv3p
+
+#EXTINF:-1 group-title="Malaysia" tvg-chno="25" tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png",Astro Supersport 3
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.CxHuv7
+
+#EXTINF:-1 group-title="Malaysia" tvg-chno="26" tvg-id="Ber.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png",Bernama
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.eyOMWf
+
+#EXTINF:-1 group-title="Malaysia" tvg-ID="Hel.MY" tvg-chno="27" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png",Hello
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.RV63qA
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="28" tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png",TVRI
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ZlOTD2
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="29" tvg-id="ANT.ID" tvg-logo="https://static.epg.best/id/ANTV.id.png",ANTV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.E3YMAx
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="30" tvg-id="BST.ID" tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png",Berita Satu
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Xdw2Lc
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="31" tvg-id="CNN.ID" tvg-logo="https://storage.googleapis.com/pastiumroh/images/1/XSOMnYNboBxAsfBVvgynT783VsxAr18NyimcWKpU.png",CNN Indonesia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.omKkwF
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="32" tvg-id="DAA.ID" tvg-logo="https://static.epg.best/id/DaaiTv.id.png",Da Ai Indonesia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.aMBFtr
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="33" tvg-id="GTV.ID" tvg-logo="https://gtv.id/assets/images2020/logo.png",Global TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.GCYU2o
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="34" tvg-id="IND.ID" tvg-logo="https://static.epg.best/id/Indosiar.id.png",Indosiar
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.GwKuTY
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="35" tvg-id="IDX.ID" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png",IDX Channel
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.4P5L55
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="36" tvg-id="JAK.ID" tvg-logo="http://jak-tv.com/theme/jaktv/images/repository/jaktv-header-logo.png",Jak TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.mkSxMY
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="37" tvg-id="JAG.ID" tvg-logo="https://s3-us-east-2.amazonaws.com/indotrainee/live/logo/company/56/1526461708-46-56.png",Jakarta Globe
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.XUDCnB
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="38" tvg-id="JTV.ID" tvg-logo="http://www.jtv.co.id/image/logojtv1.png",JTV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.zTsQ7Z
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="39" tvg-id="KOM.ID" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png",Kompas TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Th5Cks
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="40" tvg-id="MET.ID" tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png",Metro
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.XJcgfA
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="41" tvg-id="" tvg-logo="https://static.epg.best/id/MNCTV.id.png",MNC
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.OM4owH
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="42" tvg-id="NET.ID" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png",Net
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ChEyGl
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="43" tvg-id="" tvg-logo="https://static.epg.best/id/RCTI.id.png",RCTI
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.6dMyg1
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="44" tvg-id="RTV.ID" tvg-logo="http://www.rtv.co.id/img/rtv.png",RTV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.OBzwMi
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="45" tvg-id="SCT.ID" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png",SCTV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.B3X2R8
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="46" tvg-id="TRA.ID" tvg-logo="https://lofrev.net/wp-content/photos/2017/05/transtv_logo.png",Trans TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.5FpEeg
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="47" tvg-id="TR7.ID" tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png",Trans 7
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.JIRVoL
+
+#EXTINF:-1 group-title="Indonesia" tvg-chno="48" tvg-id="TV1.ID" tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo.png",TV One
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.daRd3E
+
+#EXTINF:-1 group-title="Berita" tvg-chno="49" tvg-id="Jaz.News" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png",Al Jazeera
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.FVVfXC
+
+#EXTINF:-1 group-title="Berita" tvg-ID="A24.AU" tvg-chno="50" tvg-logo="http://static.epg.best/au/ABCNews24.au.png",ABC News 24
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.MPFDaM
+
+#EXTINF:-1 group-title="Berita" logo="https://static.epg.best/kr/ArirangTV.kr.png" tvg-ID="Ari.KR" tvg-chno="51",Arirang
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.c%2FrLa2
+
+#EXTINF:-1 group-title="Berita" tvg-ID="AFR.News" tvg-chno="52" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png",Africa News
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.3g9PsL
+
+#EXTINF:-1 group-title="Berita" tvg-chno="53" tvg-id="" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png",BBC World News
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.7Ui8zI
+
+#EXTINF:-1 group-title="Berita" tvg-chno="54" tvg-id="Blo.News" tvg-logo="http://static.epg.best/us/BloombergTV.us.png",Bloomberg
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.BuBiWZ
+
+#EXTINF:-1 group-title="Berita" tvg-chno="55" tvg-id="CBSN.US" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f9/CBSN_channel_Logo.png",CBSN
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.R3LaTC
+
+#EXTINF:-1 group-title="Berita" tvg-chno="56" tvg-id="CGN.News" tvg-logo="http://static.epg.best/au/CGTN.au.png",CGTN
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.zAPvtC
+
+#EXTINF:-1 group-title="Berita" tvg-chno="57" tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png",CNN
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.CgMefw
+
+#EXTINF:-1 group-title="Berita" tvg-chno="58" tvg-id="Dwe.News" tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png",DW
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.WoTar%2B
+
+#EXTINF:-1 group-title="Berita" tvg-chno="59" tvg-id="EUR.News" tvg-logo="https://static.epg.best/gb/EuroNews.uk.png",EuroNews
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.9p0ZMg
+
+#EXTINF:-1 group-title="Berita" tvg-ID="Fra.News" tvg-chno="60" tvg-logo="http://static.epg.best/fr/France24English.fr.png",France 24
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.LVtbVD
+
+#EXTINF:-1 group-title="Berita" tvg-chno="61" tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png",Fox News
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.s8nfn0
+
+#EXTINF:-1 group-title="Berita" tvg-chno="62" tvg-id="NBC.News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png",NBC News
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.EIHIna
+
+#EXTINF:-1 group-title="Berita" tvg-chno="63" tvg-id="NHW.JP" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png",NHK World
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.cEgzeH
+
+#EXTINF:-1 group-title="Berita" tvg-chno="64" tvg-id="N27.IN" tvg-logo="http://static.epg.best/in/NDTV24x7.in.png",NDTV 24X7
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.70xmgs
+
+#EXTINF:-1 group-title="Berita" tvg-chno="65" tvg-id="RT.News" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png",RT
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.YP4A9L
+
+#EXTINF:-1 group-title="Berita" tvg-ID="Sky.News" tvg-chno="66" tvg-id="Sky.News" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png",Sky News
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.dIgle%2F
+
+#EXTINF:-1 group-title="Berita" tvg-chno="67" tvg-id="TLS.News" tvg-logo="http://static.epg.best/es/Telesur.es.png",Telesur
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.YVt%2FoU
+
+#EXTINF:-1 group-title="Berita" tvg-chno="68" tvg-id="TRT.News" tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png",TRT World
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.iwu%2FFC
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="69" tvg-id="EP1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.rBatK2
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="70" tvg-id="EP2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.GdLNIz
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="71" tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png",Astro Supersport
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.pUOv3p.1
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="72" tvg-id="AS2.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png",Astro Supersport 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.mNY5xT
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="73" tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png",Astro Supersport 3
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.CxHuv7.1
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="74" tvg-id="AS4.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png",Astro Supersport 4
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.E2pPJ9
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="75" tvg-id="BT1.UK" tvg-logo="https://static.epg.best/gb/BTSport1.uk.png",BT Sports 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.NlA4lH
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="76" tvg-id="BT2.UK" tvg-logo="https://static.epg.best/gb/BTSport1.uk.png",BT Sports 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.R9ASXx
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="77" tvg-id="B01.th" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png",beIN Sports 1 Asia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.jFTdNP
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="78" tvg-id="B02.th" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png",beIN Sports 2 Asia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.MH5Kth
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="79" tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.AxT9Lg
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="80" tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png",ESPN 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.9ZZdgX
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="81" tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png",ESPN Brasil
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.GpN2Kj
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="82" tvg-id="111.PL" tvg-logo="https://static.epg.best/pl/ElevenSport1.pl.png",Eleven Sports Polandia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.6%2FisyC
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="83" tvg-id="112.PL" tvg-logo="https://static.epg.best/pl/ElevenSport1.pl.png",Eleven Sports 2 Polandia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.h5mf8I
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="84" tvg-id="FS1.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png",Fox Sports 1 Asia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.6mqYhO
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="85" tvg-id="FS2.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png",Fox Sports 2 Asia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.kqrRdF
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="86" tvg-id="FS3.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png",Fox Sports 3 Asia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.hTPREq
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="87" tvg-id="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Матч
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.7SdKNc
+
+#EXTINF:-1 group-title="Sukan" tvg-ID="MLB.US" tvg-chno="88" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png",MLB Network
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ijOsgX
+
+#EXTINF:-1 group-title="Sukan" tvg-ID="NFL.US" tvg-chno="89" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",NFL Network
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.MROuYM
+
+#EXTINF:-1 group-title="Sukan" tvg-ID="OLY.US" tvg-chno="90" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png",Olympic Channel
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.fIpYOr
+
+#EXTINF:-1 group-title="Sukan" tvg-ID="SK1.AU" tvg-chno="91" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png",Sky Racing 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.8GYb%2Bt
+
+#EXTINF:-1 group-title="Sukan" tvg-ID="SK2.AU" tvg-chno="92" tvg-logo="https://media.info/i/lf/300/1514269377/6411.png",Sky Racing 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.An2O8Q
+
+#EXTINF:-1 group-title="Sukan" tvg-ID="STC.AU" tvg-chno="93" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SRW/SRH_425x243.png",Sky Thoroughbred Central
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.u2LJfr
+
+#EXTINF:-1 group-title="Sukan" tvg-ID="SP1.PT" tvg-chno="94" tvg-logo="https://static.epg.best/pt/SportTV1.pt.png",Sport TV 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.BS5Q3t
+
+#EXTINF:-1 group-title="Sukan" tvg-ID="SP2.PT" tvg-chno="95" tvg-logo="https://static.epg.best/pt/SportTV2.pt.png",Sport TV 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.upKnc4
+
+#EXTINF:-1 group-title="Sukan" tvg-ID="SP3.PT" tvg-chno="96" tvg-logo="https://static.epg.best/pt/SportTV3.pt.png",Sport TV 3
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.fdvc1n
+
+#EXTINF:-1 group-title="Sukan" tvg-ID="SP4.PT" tvg-chno="97" tvg-logo="https://static.epg.best/pt/SportTV4.pt.png",Sport TV 4
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.%2B1R%2BSZ
+
+#EXTINF:-1 group-title="Sukan" tvg-ID="SP5.PT" tvg-chno="98" tvg-logo="https://static.epg.best/pt/SportTV5.pt.png",Sport TV 5
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.7Uts7U
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="99" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Trackside1nz.png",TAB Trackside 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.8vp8IQ
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="100" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Trackside2nz.png",TAB Trackside 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.G%2Bv4Uv
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="101" tvg-id="TNT.AR" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png",TNT Sports
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.gx1xNS
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="102" tvg-id="TYC.AR" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png",TyC Sports
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.mljnlU
+
+#EXTINF:-1 group-title="Sukan" tvg-chno="103" tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png",Tennis Channel
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.KGeXkU
+
+#EXTINF:-1 group-title="Movies" tvg-chno="104" tvg-id="Fli.IN" tvg-logo="https://static.epg.best/in/AndFlix.in.png",&Flix
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.HIL%2Bvp
+
+#EXTINF:-1 group-title="Movies" tvg-chno="105" tvg-id="Ciw.Asia" tvg-logo="http://console.celestialtiger.com/images/upload/f50f7261d3c260ac6e3a38f85152b3f33833fc52.png",CinemaWorld
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.fUJc%2BT
+
+#EXTINF:-1 group-title="Movies" tvg-chno="106" tvg-id="Cin.Asia" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png",Cinemax
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ce5k5q
+
+#EXTINF:-1 group-title="Movies" tvg-chno="107" tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png",FOX Movies
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.j3vAhO
+
+#EXTINF:-1 group-title="Movies" tvg-chno="108" tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png",Fox Family Movies
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.VrUnbj
+
+#EXTINF:-1 group-title="Movies" tvg-chno="109" tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png",HBO
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.5HbxzJ
+
+#EXTINF:-1 group-title="Movies" tvg-chno="110" tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png",HBO Family
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.svdMOD
+
+#EXTINF:-1 group-title="Movies" tvg-chno="111" tvg-id="Hbh.Asia" tvg-logo="https://static.epg.best/id/HBOHits.id.png",HBO Hits
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.nyY0%2FD
+
+#EXTINF:-1 group-title="Movies" tvg-chno="112" tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png",HBO Signature
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.W%2FPGu5
+
+#EXTINF:-1 group-title="Movies" tvg-chno="113" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png",Hits Movies
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.DJkZBt
+
+#EXTINF:-1 group-title="Movies" tvg-chno="114" tvg-id="Red.Asia" tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/25177e0a801178d5b705f85f42655107/sh/red-by-hbo.png",Red by HBO
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.hXNIhZ
+
+#EXTINF:-1 group-title="Movies" tvg-chno="115" tvg-id="RON.ID" tvg-logo="http://static.epg.best/in/RomedyNow.in.png",Romedy Now
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.WzTwnf
+
+#EXTINF:-1 group-title="Movies" tvg-ID="SBM.AU" tvg-chno="116" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/3374ed8c-8b84-4703-8449-7142e3bd838e.png",SBS World Movies
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.aBOg77
+
+#EXTINF:-1 group-title="Movies" tvg-chno="117" tvg-id="PAR.US" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png",Paramount Network
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.RY6Wi2
+
+#EXTINF:-1 group-title="Movies" tvg-chno="118" tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png",Sony Movies Action
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.pLxT%2BM
+
+#EXTINF:-1 group-title="Movies" tvg-chno="119" tvg-id="WAR.Asia" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png",Warner TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.fQSJ7A
+
+#EXTINF:-1 group-title="Movies" tvg-chno="120" tvg-id="CCP.ID" tvg-logo="https://img.onesignal.com/permanent/9fa457c4-0092-4dff-934c-2f43c60e759a.jpg",Colors Cineplex
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.6ahhMj
+
+#EXTINF:-1 group-title="Movies" tvg-chno="121" tvg-id="ZBI.ID" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2017/10/zee_bioskop.png",Zee Bioskop
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.CSodCo
+
+#EXTINF:-1 group-title="Movies" tvg-chno="122" tvg-id="ZZC.IN" tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png",Zee Cinema
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.%2BuQpgP
+
+#EXTINF:-1 group-title="Kids/Animation" tvg-chno="123" tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png",Animax
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.GYpNqB
+
+#EXTINF:-1 group-title="Kids/Animation" tvg-chno="124" tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png",Baby First
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.13SuZY
+
+#EXTINF:-1 group-title="Kids/Animation" tvg-chno="125" tvg-id="CBE.UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png",CBeebies
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.diMIJP
+
+#EXTINF:-1 group-title="Family" tvg-chno="126" tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png",Nick
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.pfvvYg
+
+#EXTINF:-1 group-title="Family" tvg-chno="127" tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png",Nick Jr
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.kiBT2Z
+
+#EXTINF:-1 group-title="Kids/Animation" tvg-chno="128" tvg-id="BOM.Asia" tvg-logo="https://static.epg.best/br/Boomerang.br.png",Boomerang
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.rFz%2B5q
+
+#EXTINF:-1 group-title="Kids/Animation" tvg-chno="129" tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png",Da Vinci
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.loJZJL
+
+#EXTINF:-1 group-title="Kids/Animation" tvg-chno="130" tvg-id="POP.UK" tvg-logo="http://static.epg.best/gb/Pop.uk.png",Pop UK
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Hmcgh%2F
+
+#EXTINF:-1 group-title="Kids/Animation" tvg-chno="131" tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png",POP Max
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.H1hpqg
+
+#EXTINF:-1 group-title="Kids/Animation" tvg-chno="132" tvg-id="TPO.UK" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png",Tiny Pop
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.UGD7hZ
+
+#EXTINF:-1 group-title="Kids/Animation" tvg-chno="133" tvg-id="Toku.US" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png",TokuSHOUTsu
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.YjPMyZ
+
+#EXTINF:-1 group-title="Family" tvg-ID="AFN.MY" tvg-chno="134" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png",Asian Food Network
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.wz1hSX
+
+#EXTINF:-1 group-title="Family" tvg-chno="135" tvg-id="ANI.US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png",Animal Planet
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.%2FvWWlk
+
+#EXTINF:-1 group-title="Family" tvg-chno="136" tvg-id="BBE.UK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png",BBC Earth
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.v%2B5n7W
+
+#EXTINF:-1 group-title="Family" tvg-chno="137" tvg-id="CIA.MY" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png",Crime + Investigation
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Trukb8
+
+#EXTINF:-1 group-title="Family" tvg-ID="CAS.US" tvg-chno="138" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png",Classic Arts Showcase
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.1AXA3c
+
+#EXTINF:-1 group-title="Family" tvg-chno="139" tvg-id="COM.US" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png",Comedy Central
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.TnVo8D
+
+#EXTINF:-1 group-title="Family" tvg-chno="140" tvg-id="CGD.News" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png",CGTN Documentary
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.yusQg%2F
+
+#EXTINF:-1 group-title="Family" tvg-chno="141" tvg-id="DIS.US" tvg-logo="http://i.imgur.com/lB0VeoB.png",Discovery
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.mXLoCt
+
+#EXTINF:-1 group-title="Family" tvg-ID="DIS.Asia" tvg-chno="142" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png",Discovery Asia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.KLecCG
+
+#EXTINF:-1 group-title="Family" tvg-chno="143" tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png",History
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.jHfW4%2F
+
+#EXTINF:-1 group-title="Family" tvg-ID="FON.UK" tvg-chno="144" tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png",Food Network
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.kUbPgJ
+
+#EXTINF:-1 group-title="Family" tvg-ID="OUT.US" tvg-chno="145" tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png",Outdoor Channel
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.6boLod
+
+#EXTINF:-1 group-title="Family" tvg-ID="NGO.US" tvg-chno="146" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png",National Geographic
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.CX5mdQ
+
+#EXTINF:-1 group-title="Family" tvg-chno="147" tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png",Nat Geo Wild
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.tpto1V
+
+#EXTINF:-1 group-title="Family" tvg-chno="148" tvg-id="NGP.US" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png",Nat Geo People
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ApH01J
+
+#EXTINF:-1 group-title="Family" tvg-ID="SBF.AU" tvg-chno="149" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/ad6c5b49-3c34-4a6d-ab5b-d1bd2eea8fda.png",SBS Food
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ADxEpE
+
+#EXTINF:-1 group-title="Family" tvg-ID="Kix.Asia" tvg-chno="150" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png",KIX
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.bgrtjb
+
+#EXTINF:-1 group-title="عربى" tvg-chno="151" tvg-id="SUN.SA" tvg-logo="https://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png",Makkah TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.YwH4Zn
+
+#EXTINF:-1 group-title="عربى" tvg-chno="152" tvg-id="MED.SA" tvg-logo="https://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png",Medina TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Y71qdO
+
+#EXTINF:-1 group-title="عربى" tvg-chno="153" tvg-id="ARA.SA" tvg-logo="https://static.epg.best/sa/Alarabiya.sa.png",Al Arabiya
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.IuXZpn
+
+#EXTINF:-1 group-title="عربى" tvg-chno="154" tvg-id="CNC.SA" tvg-logo="http://www.cnbcarabia.com/img/logo.png",CNBC عربى
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.HoqJrS
+
+#EXTINF:-1 group-title="عربى" tvg-chno="155" tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png",MBC 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.wPjWSc
+
+#EXTINF:-1 group-title="عربى" tvg-chno="156" tvg-id="MB2.SA" tvg-logo="https://static.epg.best/ae/MBC2.ae.png",MBC 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.NzuqLN
+
+#EXTINF:-1 group-title="عربى" tvg-chno="157" tvg-id="MB2.SA" tvg-logo="https://static.epg.best/ae/MBC3.ae.png",MBC 3
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.NzuqLN.1
+
+#EXTINF:-1 group-title="عربى" tvg-chno="158" tvg-id="NAT.AE" tvg-logo="https://static.epg.best/ae/NationalGeographicAbuDhabi.ae.png",National Geographic Abu Dhabi
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.TIYeop
+
+#EXTINF:-1 group-title="عربى" tvg-chno="159" tvg-id="SPC.AE" tvg-logo="https://static.epg.best/sa/SpaceToon.sa.png",Spacetoon
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.8K%2Fb7T
+
+#EXTINF:-1 group-title="عربى" tvg-chno="160" tvg-id="ROT.EG" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png",Rotana Drama
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.atZ9Wp
+
+#EXTINF:-1 group-title="عربى" tvg-chno="161" tvg-id="WAN.SA" tvg-logo="https://www.mbc.net/en/corporate/channels/wanasah/main/0/imageBinary/dae96fdca2c9b6a0fcc3e5787d3a64adbb94ef2f/wanasah1.jpg",Wanasah
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.kuQnPX
+
+#EXTINF:-1 group-title="عربى" tvg-chno="162" tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png",Abu Dhabi Al Oula
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.RSPLAQ
+
+#EXTINF:-1 group-title="عربى" tvg-chno="163" tvg-id="SA1.SA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ksa-channel_logo.png",Al Saudiya
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.RK%2FkLh
+
+#EXTINF:-1 group-title="عربى" tvg-chno="164" tvg-id="DUB.AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png",Dubai TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.7S8eE%2F
+
+#EXTINF:-1 group-title="عربى" tvg-chno="165" tvg-id="CBC.EG" tvg-logo="https://static.epg.best/eg/CBC.eg.png",CBC
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.QdQ3kG
+
+#EXTINF:-1 group-title="عربى" tvg-chno="166" tvg-id="2MD.MA" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png",2M Monde
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.hM65vX
+
+#EXTINF:-1 group-title="عربى" tvg-chno="167" tvg-id="DRA.SY" tvg-logo="https://static.epg.best/sy/SyriaDrama.sy.png",Syria Drama
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.uibxPj
+
+#EXTINF:-1 group-title="عربى" tvg-chno="168" tvg-id="MBC.IQ" tvg-logo="https://static.epg.best/iq/MBCIraq.iq.png",MBC Iraq
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.5ZPCY%2B
+
+#EXTINF:-1 group-title="عربى" tvg-chno="169" tvg-id="LBC.LB" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png",LBC International
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.I%2F3V1A
+
+#EXTINF:-1 group-title="عربى" tvg-chno="170" tvg-id="TR1.TR" tvg-logo="https://static.epg.best/tr/TRT1.tr.png",TRT 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.e9pz0D
+
+#EXTINF:-1 group-title="عربى" tvg-chno="171" tvg-id="STR.TR" tvg-logo="https://static.epg.best/tr/StarTV.tr.png",Star
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.lfhYBE
+
+#EXTINF:-1 group-title="عربى" tvg-chno="172" tvg-id="IR1.IR" tvg-logo="https://static.epg.best/ir/TV1English.ir.png",IRIB 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.fCZxr9
+
+#EXTINF:-1 group-title="Hindustan(हिन्दी)" tvg-chno="173" tvg-id="AAJ.IN" tvg-logo="https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/homeLogo.png",Aaj Tak
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.O2mkii
+
+#EXTINF:-1 group-title="Hindustan(हिन्दी)" tvg-chno="174" tvg-id="AND.IN" tvg-logo="https://static.epg.best/in/AndTV.in.png",And TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.LKhXKo
+
+#EXTINF:-1 group-title="Hindustan(हिन्दी)" tvg-chno="175" tvg-id="B4M.IN" tvg-logo="https://b4umusic.in/images/logo.png",B4U Music
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.j3RXXB
+
+#EXTINF:-1 group-title="Hindustan(हिन्दी)" tvg-chno="176" tvg-id="COL.IN" tvg-logo="https://static.epg.best/in/Colors.in.png",Colors
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.zLImKD
+
+#EXTINF:-1 group-title="Hindustan(हिन्दी)" tvg-chno="177" tvg-id="NTI.IN" tvg-logo="https://static.epg.best/in/NDTVIndia.in.png",NDTV India
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Yne%2BE5
+
+#EXTINF:-1 group-title="Hindustan(हिन्दी)" tvg-chno="178" tvg-id="ZTV.IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvapac/list/170x120/androidapphover_2.png",Zee TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.OF%2B65Q
+
+#EXTINF:-1 group-title="Hindustan(தமிழ்)" tvg-ID="RAJ.IN" tvg-chno="179" tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png",Raj TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.7WgG4Q
+
+#EXTINF:-1 group-title="Hindustan(தமிழ்)" tvg-chno="180" tvg-id="STV.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/135_1920x1080_HTV.png",Star Vijay
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.3LjhR1
+
+#EXTINF:-1 group-title="Hindustan(தமிழ்)" tvg-chno="181" tvg-id="SUN.IN" tvg-logo="https://static.epg.best/in/SunTV.in.png",Sun TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Hyl10U
+
+#EXTINF:-1 group-title="Hindustan(தமிழ்)" tvg-ID="Kal.IN" tvg-chno="182" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png",Kalaignar
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.VvJ7Xo
+
+#EXTINF:-1 group-title="Hindustan(தமிழ்)" tvg-chno="183" tvg-id="Vaa.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png",Vaanavil
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.vqzSrS.1
+
+#EXTINF:-1 group-title="Hindustan(தமிழ்)" tvg-ID="MAK.IN" tvg-chno="184" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png",Makkal
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.dsx26O
+
+#EXTINF:-1 group-title="Hindustan(தமிழ்)" tvg-ID="MON.IN" tvg-chno="185" tvg-logo="http://www.moontvlive.com/images/logo.png",Moon TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.fh1%2BQE
+
+#EXTINF:-1 group-title="Hindustan(தமிழ்)" tvg-ID="THA.IN" tvg-chno="186" tvg-logo="https://www.thanthitv.com/Images/TTV-800x800.png",Thanthi
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.HIUc41
+
+#EXTINF:-1 group-title="Hindustan(தமிழ்)" tvg-ID="MSE.IN" tvg-chno="187" tvg-logo="https://www.malaimurasu.in/wp-content/uploads/2020/06/Malaimurasu-Seithigal-Logo-Copy-2.png",MalaiMurasu Seithigal
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.nyx41v
+
+#EXTINF:-1 group-title="Hindustan(தமிழ்)" tvg-ID="SV2.IN" tvg-chno="188" tvg-logo="https://2.bp.blogspot.com/-9P4HNGwkhC8/WUyyp6FsVaI/AAAAAAAADpE/oiaArBTHTL8Hfrgdyqb2a7JNRIEavebsACLcBGAs/s1600/svbc2_tamil.png",SVBC 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.qbrx2i
+
+#EXTINF:-1 group-title="Hindustan(বাংলা)" tvg-chno="189" tvg-id="ABA.IN" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg",ABP আনন্দ
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.3dOB4a
+
+#EXTINF:-1 group-title="Hindustan(বাংলা)" tvg-chno="190" tvg-id="ATN.BD" tvg-logo="https://www.atnbangla.tv/wp-content/uploads/2015/09/atn-bangla-logo-last.png",ATN Bangla
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.s%2BCcvf
+
+#EXTINF:-1 group-title="Hindustan(বাংলা)" tvg-chno="191" tvg-id="COL.BD" tvg-logo="https://static.epg.best/in/ColorsBangla.in.png",Colors বাংলা
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.6B5GBc
+
+#EXTINF:-1 group-title="Hindustan(বাংলা)" tvg-chno="192" tvg-id="CT1.BD" tvg-logo="http://jio-tv.com/uploads/tv_image/channel-t1.png",Channel T1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.GKWJaA
+
+#EXTINF:-1 tvg-chno="193" tvg-id="E10.BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Logo_of_Enterr10_Bangla.jpg",Enter 10 আনন্দ
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.m89qxh
+
+#EXTINF:-1 group-title="Hindustan(বাংলা)" tvg-chno="194" tvg-id="ZBC.IN" tvg-logo="https://static.epg.best/in/ZeeBanglaCinema.in.png",Zee বাংলা সিনেমা
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.W%2F31hB
+
+#EXTINF:-1 group-title="Hindustan(বাংলা)" tvg-chno="195" tvg-id="STJ.IN" tvg-logo="https://static.epg.best/in/StarJalsha.in.png",Star Jalsha
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ZpZQjR
+
+#EXTINF:-1 group-title="Hindustan(বাংলা)" tvg-chno="196" tvg-id="SJM.IN" tvg-logo="https://static.epg.best/in/JalshaMovies.in.png",Star Jalsha Movies
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.wTYw0u
+
+#EXTINF:-1 group-title="Hindustan(বাংলা)" tvg-chno="197" tvg-id="BDW.DB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_logo.png",BTV World
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.%2BWoRWn
+
+#EXTINF:-1 group-title="Hindustan(ਪੰਜਾਬੀ)" tvg-chno="198" tvg-id="BOB.IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-165/list/170x120/09165booglebollywood.png",Boogle Bollywood
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.oBqDJ8
+
+#EXTINF:-1 group-title="Hindustan(ਪੰਜਾਬੀ)" tvg-chno="199" tvg-id="AKK.IN" tvg-logo="http://akaalchannel.tv/assets/images/logo.png",Channel Akkal
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.04R7ZI
+
+#EXTINF:-1 group-title="Hindustan(ਪੰਜਾਬੀ)" tvg-chno="200" tvg-id="DDP.IN" tvg-logo="https://static.epg.best/in/DDPunjabi.in.png",DD Punjabi
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.CAf4t3
+
+#EXTINF:-1 group-title="Hindustan(ਪੰਜਾਬੀ)" tvg-chno="201" tvg-id="MH1.IN" tvg-logo="http://music.mhone.in/wp-content/uploads/2018/05/600x200-Black.png",MH One
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.p7R72c
+
+#EXTINF:-1 group-title="Hindustan(ਪੰਜਾਬੀ)" tvg-chno="202" tvg-id="MHN.IN" tvg-logo="http://www.mhone.in/wp-content/uploads/2018/01/News-600x200.png",MH1 Prime
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.aWD4Cf
+
+#EXTINF:-1 group-title="Hindustan(ਪੰਜਾਬੀ)" tvg-chno="203" tvg-id="PIT.IN" tvg-logo="https://www.pitaara.tv/wp-content/uploads/2020/09/pitaaralogo.png",Pitaara
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.FN8K9Y
+
+#EXTINF:-1 group-title="Hindustan(ਪੰਜਾਬੀ)" tvg-chno="204" tvg-id="ZZP.IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/170x120/09zeepunjabharyanahimazeep.png",Zee Punjabi
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.znHE2o
+
+#EXTINF:-1 tvg-chno="205" tvg-id="ACV.IN" tvg-logo="https://www.asianet.in/static/images/Asianet-logo.png",Asianet
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Q71nbI
+
+#EXTINF:-1 group-title="Hindustan(മലയാളം)" tvg-chno="206" tvg-id="ASN.IN" tvg-logo="https://www.asianet.in/static/images/asianet-news.png",Asianet News
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Xwiqe5
+
+#EXTINF:-1 group-title="Hindustan(മലയാളം)" tvg-chno="207" tvg-id="ASP.IN" tvg-logo="https://www.asianet.in/static/images/acv-plus-logo.png",Asianet Plus
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.bwYOvd
+
+#EXTINF:-1 group-title="Hindustan(മലയാളം)" tvg-chno="208" tvg-id="DDM.IN" tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-malayalam.png",DD Malayalam
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.6UDeM5
+
+#EXTINF:-1 group-title="Hindustan(മലയാളം)" tvg-chno="209" tvg-id="FLO.IN" tvg-logo="http://www.asianetmobiletv.com/channels/Flowers.png",Flowers
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.B8TRWr
+
+#EXTINF:-1 group-title="Hindustan(മലയാളം)" tvg-chno="210" tvg-id="JAI.IN" tvg-logo="https://jaihindtv.in/wp-content/themes/jaihindtheme/img/logo.png",Jaihind
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.4iQmns
+
+#EXTINF:-1 group-title="Hindustan(മലയാളം)" tvg-chno="211" tvg-id="MAZ.IN" tvg-logo="https://storage.googleapis.com/news-photo/92907-MazhavilManorama.jpg",Mazhavil Manorama
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.wxrEvd
+
+#EXTINF:-1 group-title="Hindustan(മലയാളം)" tvg-chno="212" tvg-id="KAR.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/330px-Kairali_TV.svg.png",Kairali
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.PXoEEY
+
+#EXTINF:-1 group-title="Hindustan(മലയാളം)" tvg-chno="213" tvg-id="KAP.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Kappa_TV.jpg/220px-Kappa_TV.jpg",Kappa TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.b%2BluNc
+
+#EXTINF:-1 group-title="Hindustan(മലയാളം)" tvg-chno="214" tvg-id="KAM.IN" tvg-logo="http://kaumudy.tv/images/logo.jpg",Kaumudy
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.0kk2Jk
+
+#EXTINF:-1 group-title="Hindustan(اردو)" tvg-chno="215" tvg-id="92N.PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png",92 News
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.REEOT1
+
+#EXTINF:-1 group-title="Hindustan(اردو)" tvg-chno="216" tvg-id="ARM.PK" tvg-logo="http://arymusik.tv/wp-content/uploads/2018/01/ARY_Musik.png",ARY Musik
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.kwunqQ
+
+#EXTINF:-1 group-title="Hindustan(اردو)" tvg-chno="217" tvg-logo="http://www.aryzindagi.tv/wp-content/uploads/2014/10/Final-logo-2.gif",ARY Zindagi
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.r0wZ69
+
+#EXTINF:-1 group-title="Hindustan(اردو)" tvg-chno="218" tvg-id="KA2.PK" tvg-logo="https://kay2.tv/wp-content/uploads/2017/01/logo.png",Kay2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Jr69PX
+
+#EXTINF:-1 group-title="Hindustan(اردو)" tvg-chno="219" tvg-id="VEN.PK" tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png",Venus
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.PuNPCf
+
+#EXTINF:-1 group-title="Hindustan(اردو)" tvg-chno="220" tvg-id="MAD.PK" tvg-logo="https://madanichannel.tv/img/madani-channel-logo.png",Madani TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.0eiK%2Bl
+
+#EXTINF:-1 group-title="Best of UK" tvg-chno="221" tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png",BBC 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.r%2B1xen
+
+#EXTINF:-1 group-title="Best of UK" tvg-chno="222" tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png",BBC 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.bNgwU6
+
+#EXTINF:-1 group-title="Best of UK" tvg-chno="223" tvg-id="BB4.UK" tvg-logo="http://static.epg.best/gb/BBC4.uk.png",BBC 4
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.8n6c9E
+
+#EXTINF:-1 group-title="Best of UK" tvg-chno="224" tvg-id="BBL.Asia" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png",BBC Lifestyle
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Wz6iIG
+
+#EXTINF:-1 group-title="Best of UK" tvg-chno="225" tvg-id="CBB.UK" tvg-logo="https://static.epg.best/gb/CBBC.uk.png",CBBC
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.e9BlPT
+
+#EXTINF:-1 group-title="Best of UK" tvg-chno="226" tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png",ITV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.BZpF0m
+
+#EXTINF:-1 group-title="Best of UK" tvg-chno="227" tvg-id="IT2.UK" tvg-logo="http://static.epg.best/gb/ITV2.uk.png",ITV2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.kAMI%2BC
+
+#EXTINF:-1 group-title="Best of UK" tvg-chno="228" tvg-id="IT3.UK" tvg-logo="http://static.epg.best/gb/ITV3.uk.png",ITV3
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.o5GWbr
+
+#EXTINF:-1 group-title="Best of UK" tvg-chno="229" tvg-id="CH4.UK" tvg-logo="https://static.epg.best/gb/Channel4.uk.png",Channel 4
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ehiBzk
+
+#EXTINF:-1 group-title="Best of UK" tvg-ID="ABC.AU" tvg-chno="230" tvg-logo="https://static.epg.best/au/ABC.au.png",ABC
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.HKSasG
+
+#EXTINF:-1 group-title="Best of UK" tvg-chno="231" tvg-id="PRI.NZ" tvg-logo="https://static.epg.best/nz/PrimeTV.nz.png",Prime
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.6JMz%2BJ
+
+#EXTINF:-1 group-title="Best of UK" tvg-ID="AB2.AU" tvg-chno="232" tvg-logo="https://static.epg.best/au/ABCComedy.au.png",ABC Comedy
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.AGHApD
+
+#EXTINF:-1 group-title="Best of UK" tvg-ID="AB3.AU" tvg-chno="233" tvg-logo="https://static.epg.best/au/ABCME.au.png",ABC ME
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.SxTNZy
+
+#EXTINF:-1 group-title="Best of UK" tvg-ID="SB1.AU" tvg-chno="234" tvg-logo="https://static.epg.best/au/SBS.au.png",SBS One
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.RHxqJv
+
+#EXTINF:-1 group-title="Best of UK" tvg-ID="SBV.AU" tvg-chno="235" tvg-logo="https://static.epg.best/au/SBSViceland.au.png",SBS Viceland
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.LTC5Fo
+
+#EXTINF:-1 group-title="Best of USA" tvg-chno="236" tvg-id="" tvg-logo="https://static.epg.best/mx/AztecaUno.mx.png",Azteca Uno
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Qg92YK
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="BUZ.US" tvg-chno="237" tvg-logo="https://static.epg.best/us/BuzzrTV.us.png",Buzzr
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.qBEfOO
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="BET.US" tvg-chno="238" tvg-logo="https://static.epg.best/us/BET.us.png",BET
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.wMjQOC
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="CBC.CA" tvg-chno="239" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.v9k2Zv
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="CBS.US" tvg-chno="240" tvg-logo="https://static.epg.best/us/CBSSportsNetwork.us.png",CBS Sports HQ
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.MicYk%2F
+
+#EXTINF:-1 group-title="Best of USA" tvg-chno="241" tvg-id="" tvg-logo="https://static.epg.best/us/ChargeTV.us.png",Charge!
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.rKxnDF
+
+#EXTINF:-1 group-title="Best of USA" tvg-chno="242" tvg-id="CMT.US" tvg-logo="https://static.epg.best/us/CMT.us.png",CMT
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.%2BKddL7
+
+#EXTINF:-1 group-title="Best of USA" tvg-chno="243" tvg-id="COU.US" tvg-logo="http://www.courttv.com/wp-content/themes/courttv/assets/images/logo.png",Court TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.kDzNXV
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="CAS.US" tvg-chno="244" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png",Classic Arts Showcase
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.1AXA3c.1
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="EP1.US" tvg-chno="245" tvg-logo="https://static.epg.best/us/EPIX.us.png",Epix(East)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.dwNMBM
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="EP2.US" tvg-chno="246" tvg-logo="https://static.epg.best/us/EPIX2.us.png",Epix 2 East)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.cVQGGN
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="EP2.US" tvg-chno="247" tvg-logo="https://static.epg.best/us/Cinemax.us.png",Cinemax USA(East)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.yPtT5O
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="EP2.US" tvg-chno="248" tvg-logo="https://static.epg.best/us/Cinemax.us.png",Cinemax USA(West)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.EgDAB9
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="GSN.CA" tvg-chno="249" tvg-logo="https://static.epg.best/us/GameShowNetwork.us.png",Game Show Central
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.egBfdx
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="GLO.BR" tvg-chno="250" tvg-logo="https://static.epg.best/pt/Globo.pt.png",Globo
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.09Y8Sq
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="GLN.CA" tvg-chno="251" tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png",Global News
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.RZYtwB
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="HBE.US" tvg-chno="252" tvg-logo="https://static.epg.best/us/HBO.us.png",HBO USA(East)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.jr9sJA
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="HBW.US" tvg-chno="253" tvg-logo="https://static.epg.best/us/HBO.us.png",HBO USA(West)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.o05sCN
+
+#EXTINF:-1 group-title="Best of USA" tvg-chno="254" tvg-id="" tvg-logo="http://static.epg.best/ca/ICITelevisionMontreal.ca.png",ICI
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.N1H%2BvT
+
+#EXTINF:-1 group-title="Best of USA" tvg-chno="255" tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png",ICI Tele Montreal
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.JMfLOu
+
+#EXTINF:-1 group-title="Best of USA" tvg-chno="256" tvg-id="ICI.News" tvg-logo="https://static.epg.best/ca/RDINews.ca.png",ICI RDI
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.4nLWrb
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="MAV.US" tvg-chno="257" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png",MavTV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.Nao6v5
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="WPSU.US" tvg-chno="258" tvg-logo="https://static.epg.best/gb/PBSAmerica.uk.png",PBS
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.GtliXd
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="POP.US" tvg-chno="259" tvg-logo="https://static.epg.best/us/PopTV.us.png",Pop
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.wSu5VH
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="REC.BR" tvg-chno="260" tvg-logo="https://static.epg.best/br/RecordTV.br.png",Record TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.2j2%2FSG
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="SHE.US" tvg-chno="261" tvg-logo="https://static.epg.best/us/Showtime.us.png",Showtime USA(East)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.V0v9%2F2
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="SHW.US" tvg-chno="262" tvg-logo="https://static.epg.best/us/Showtime.us.png",Showtime USA(West)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.za45Ll
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="STW.US" tvg-chno="263" tvg-logo="https://static.epg.best/us/Starz.us.png",STARZ(West)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.r%2FM%2BMt
+
+#EXTINF:-1 group-title="Best of USA" tvg-ID="STE.US" tvg-chno="264" tvg-logo="https://static.epg.best/us/StarzEncore.us.png",STARZ Encore
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.zAjTzK
+
+#EXTINF:-1 group-title="Best of USA" tvg-chno="265" tvg-id="KLA.US" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/be/KTLA5.png",KTLA 5
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.wndWAl
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="266" tvg-id="TV5.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png",ททบ 5
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.mnh6U1
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="267" tvg-id="NBT.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBT_2009.png",NBT 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.h1DIwJ
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="268" tvg-id="TPB.TH" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/thai-pbs-png-6.png",Thai PBS 3
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.krdfhq
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="269" tvg-id="ALT4.TH" tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png",ALTV4
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.7iZ7lD
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="270" tvg-id="TPT.TH" tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png",TPTV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.g10G0P
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="271" tvg-id="TNN.TH" tvg-logo="https://cms.dmpcdn.com/contentowner/2019/03/06/d7f12a36-50e5-4ffe-82ca-91fcf99e4ced.png",TNN16
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.lzrt08
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="272" tvg-id="NEW.TH" tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png",New18
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.EJepKH
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="273" tvg-id="WPT.TH" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/06/voice-tv2.png",Voice TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.wwaZ%2Bs
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="274" tvg-id="NAT.TH" tvg-logo="https://resource.nationtv.tv/assets/images-v5/logo-nationtv.png",Nation TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.HFRD40
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="275" tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png",Workpoint
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.wwaZ%2Bs.1
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="276" tvg-id="GMM.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png",GMM 25
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.ycXgMF
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="277" tvg-id="TV8.TH" tvg-logo="https://www.thaich8.com/assets/images/ch8-log-23092019.png",ช่อง 8
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.SWgG2v
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="278" tvg-id="MON.TH" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/LOGO.png",Mono 29
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.78VX9y
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="279" tvg-id="MCO.TH" tvg-logo="https://tv.mcot.net/static/img/logo-mcothd.png",MCOT
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.0w5Byf
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="280" tvg-id="T31.TH" tvg-logo="https://www.one31.net/theme/images/logo-one31.png",ONE 31
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.dmVJCk
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="281" tvg-id="TRA.TH" tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png",Thairath TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.wbICnu
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="282" tvg-id="TV3.TH" tvg-logo="https://static.epg.best/th/Channel3.th.png",ดูทีวีสีช่อง 3
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.N3L%2F%2Ba
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="283" tvg-id="PPT.TH" tvg-logo="https://static.epg.best/th/PPTV.th.png",PPTV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.UrlZZy
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="284" tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png",ช่อง 7
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.izr2oz
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="285" tvg-id="AMA.TH" tvg-logo="https://www.amarintv.com/assets/images/logo.png",Amarin TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.wgPnP4
+
+#EXTINF:-1 group-title="Asian TV" tvg-chno="286" tvg-id="T4U.TH" tvg-logo="https://static.epg.best/th/true4U.th.png",True4U
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=1.9DmdWV
+
+#EXTINF:-1 group-title="新马" tvg-ID="Ch5.SG" tvg-chno="287" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.uhGVrv
+
+#EXTINF:-1 group-title="新马" tvg-ID="Ch8.SG" tvg-chno="288" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",8频道
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.5DIwcE
+
+#EXTINF:-1 group-title="新马" tvg-ID="Sur.SG" tvg-chno="289" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.XsQJFo
+
+#EXTINF:-1 group-title="新马" tvg-ID="Vas.SG" tvg-chno="290" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png",Vasantham
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.3kaOsb
+
+#EXTINF:-1 group-title="新马" tvg-ID="Cna.SG" tvg-chno="291" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png",亚洲新闻台(CNA)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.Cthadu
+
+#EXTINF:-1 group-title="新马" tvg-ID="ChU.SG" tvg-chno="292" tvg-logo="https://static.epg.best/sg/ChannelU.sg.png",U频道
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.x2quXi
+
+#EXTINF:-1 group-title="新马" tvg-ID="TV1.MY" tvg-chno="293" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png",TV1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.uDiclI
+
+#EXTINF:-1 group-title="新马" tvg-ID="TV2.MY" tvg-chno="294" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",TV2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.ZUWaIr
+
+#EXTINF:-1 group-title="新马" tvg-ID="TV3.MY" tvg-chno="295" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",TV3
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.kCRa%2Ft
+
+#EXTINF:-1 group-title="新马" tvg-ID="TV7.MY" tvg-chno="296" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png",NTV 7
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.%2FzWdAC
+
+#EXTINF:-1 group-title="新马" tvg-ID="8TV.MY" tvg-chno="297" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png",八度空间
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.Dx%2BFl8
+
+#EXTINF:-1 group-title="新马" tvg-ID="TV9.MY" tvg-chno="298" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png",TV9
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.VVz69s
+
+#EXTINF:-1 group-title="新马" tvg-ID="Oky.MY" tvg-chno="299" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png",OKEY
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.o%2BR94F
+
+#EXTINF:-1 group-title="新马" tvg-ID="RTS.MY" tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png",RTM Sports
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.FVfGGS
+
+#EXTINF:-1 group-title="新马" tvg-chno="301" tvg-id="TVA.MY" tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg",TV Alhijrah
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.b1WbUS
+
+#EXTINF:-1 group-title="新马" tvg-ID="Ber.MY" tvg-chno="302" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png",Bernama
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.cY3wB%2F
+
+#EXTINF:-1 group-title="新马" tvg-ID="BRE.MY" tvg-chno="303" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.NRpUfW
+
+#EXTINF:-1 group-title="新马" tvg-chno="304" tvg-id="AEC.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png",Astro AEC
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.i8U2Ts
+
+#EXTINF:-1 group-title="新马" tvg-ID="Hel.MY" tvg-chno="305" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png",Hello
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.RV63qA
+
+#EXTINF:-1 group-title="香港" tvg-chno="306" tvg-id="ATV.HK" tvg-logo="https://www.hkatv.com/images/logo.png",亞洲電視
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.IlyXRb
+
+#EXTINF:-1 group-title="香港" tvg-chno="307" tvg-id="FHX.CN" tvg-logo="http://tv.sason.xyz/logo/fhxg.png",鳳凰衛視香港台
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.13g6lg
+
+#EXTINF:-1 group-title="香港" tvg-ID="NFW.CN" tvg-chno="308" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/GRT_Southern_STV.png",南方衛視
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.aJeHVE
+
+#EXTINF:-1 group-title="香港" tvg-chno="309" tvg-id="31.HK" tvg-logo="http://tv.sason.xyz/logo/rthk31.png",港台電視31
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.TNAf4j
+
+#EXTINF:-1 group-title="香港" tvg-chno="310" tvg-id="32.HK" tvg-logo="http://tv.sason.xyz/logo/rthk32.png",港台電視32
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.Mdsvke
+
+#EXTINF:-1 group-title="香港" tvg-chno="311" tvg-id="KAI.HK" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png",香港开電視
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.q5w5kl
+
+#EXTINF:-1 group-title="香港" tvg-chno="312" tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",翡翠台
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.DtIfHj
+
+#EXTINF:-1 group-title="香港" tvg-chno="313" tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png",無綫新聞
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.7OeUOP
+
+#EXTINF:-1 group-title="香港" tvg-chno="314" tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png",J2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.W%2BBcSD
+
+#EXTINF:-1 group-title="香港" tvg-chno="315" tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png",明珠台
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.csfoyy
+
+#EXTINF:-1 group-title="香港" tvg-chno="316" tvg-id="WXC.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png",無綫財經資訊
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.JV%2FY5z
+
+#EXTINF:-1 group-title="香港" tvg-chno="317" tvg-id="V96.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png",ViuTVsix
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.yHKXm%2B
+
+#EXTINF:-1 group-title="香港" tvg-chno="318" tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png",ViuTV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.Ik%2FuS5
+
+#EXTINF:-1 group-title="香港" tvg-ID="YYL.HK" tvg-chno="319" tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png",有線綜合娱乐
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.VzhojL
+
+#EXTINF:-1 group-title="香港" tvg-ID="YXW.HK" tvg-chno="320" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png",有線新闻
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.mqOCXz
+
+#EXTINF:-1 group-title="香港" tvg-ID="YCJ.HK" tvg-chno="321" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png",有線財經資訊
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.NK2lJb
+
+#EXTINF:-1 group-title="香港" tvg-chno="322" tvg-id="NOP.HK" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png",Now Sports Prime
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.FfXnKh
+
+#EXTINF:-1 group-title="香港" tvg-ID="668.HK" tvg-chno="323" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/bf/HKJC_Horse_Racing.jpg",赛马直击
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.n9%2FLun
+
+#EXTINF:-1 group-title="香港" tvg-chno="324" tvg-id="AOY.MO" tvg-logo="http://www.imastv.com/img/eqwe12qe2.png",澳亞衛視
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.ouOFKc
+
+#EXTINF:-1 group-title="台湾" tvg-chno="325" tvg-id="ZST.TW" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png",中視
+rtmp://59.124.75.156/sat/tv091
+
+#EXTINF:-1 group-title="台湾" tvg-chno="326" tvg-id="ZSX.TW" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_news.png",中視新聞
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.Hzsa%2FF
+
+#EXTINF:-1 group-title="台湾" tvg-chno="327" tvg-id="MSW.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.d96wWr
+
+#EXTINF:-1 group-title="台湾" tvg-chno="328" tvg-id="MS1.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png",民視第一
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.p109LB
+
+#EXTINF:-1 group-title="台湾" tvg-chno="329" tvg-id="MSX.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png",民視新聞
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.mMkGkj
+
+#EXTINF:-1 group-title="台湾" tvg-chno="330" tvg-id="MST.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png",民視台灣
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.xrmjI8
+
+#EXTINF:-1 group-title="台湾" tvg-chno="331" tvg-id="YZM.TW" tvg-logo="http://titv.ipcf.org.tw/images/logo.png?v1.1",原住民電視
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.xuJYRw
+
+#EXTINF:-1 group-title="台湾" tvg-chno="332" tvg-id="TST.TW" tvg-logo="https://www.ttv.com.tw/group/15/images/TTV_HD_LOGO_36.png",台視
+rtmp://59.124.75.156/sat/tv071
+
+#EXTINF:-1 group-title="台湾" tvg-chno="333" tvg-id="TSX.TW" tvg-logo="https://www.ttv.com.tw/news/15/images/TTV-N_logo200-min.png",台視新聞
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.%2BwtDNo
+
+#EXTINF:-1 group-title="台湾" tvg-chno="334" tvg-id="HST.TW" tvg-logo="https://www.cts.com.tw/images/2018cts/cts-logo.png",華視
+rtmp://59.124.75.156/sat/tv111
+
+#EXTINF:-1 group-title="台湾" tvg-chno="335" tvg-id="HSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/27/Cts_news_info.png/200px-Cts_news_info.png",華視新聞資訊
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.194oUG
+
+#EXTINF:-1 group-title="台湾" tvg-chno="336" tvg-id="TBX.TW" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png",TVBS新聞
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.R1ngE%2F
+
+#EXTINF:-1 group-title="台湾" tvg-chno="337" tvg-id="TBL.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png",TVBS歡樂
+rtmp://59.124.75.156/sat/tv421
+
+#EXTINF:-1 group-title="台湾" tvg-chno="338" tvg-id="ZTX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png",中天新聞
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.1VNak8
+
+#EXTINF:-1 group-title="台湾" tvg-chno="339" tvg-id="SLX.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png",三立新聞
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.YNQ4Za
+
+#EXTINF:-1 group-title="台湾" tvg-chno="340" tvg-id="SLC.TW" tvg-logo="https://attach.setn.com/images/0626_691_1920x240.png",三立iNews
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.oV0XZB
+
+#EXTINF:-1 group-title="台湾" tvg-chno="341" tvg-id="DLX.TW" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png",東森新聞
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.9pw9XI
+
+#EXTINF:-1 group-title="台湾" tvg-chno="342" tvg-id="DLC.TW" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png",東森財經新聞
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.3axJ3I
+
+#EXTINF:-1 group-title="台湾" tvg-chno="343" tvg-id="DA1.TW" tvg-logo="http://www.daai.tv/images/logo.png",大愛1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.MBJOHZ
+
+#EXTINF:-1 group-title="台湾" tvg-chno="344" tvg-id="DA2.TW" tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png",大愛2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.hMY7Nc
+
+#EXTINF:-1 group-title="台湾" tvg-chno="345" tvg-id="HZW.TW" tvg-logo="https://www.hwazan.org/statics/images/newhztv_logo.png",華藏衛視
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.wrlMgE
+
+#EXTINF:-1 group-title="台湾" tvg-chno="346" tvg-id="RJW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png",人間衛視
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.fdjmHA
+
+#EXTINF:-1 group-title="台湾" tvg-chno="347" tvg-id="WXT.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png",唯心電視
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.pwDKkj
+
+#EXTINF:-1 group-title="台湾" tvg-chno="348" tvg-id="DLD.TW" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png",大立電視
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.59PORf
+
+#EXTINF:-1 group-title="台湾" tvg-chno="349" tvg-id="YXW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png",臺新聞
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.FstWaM
+
+#EXTINF:-1 group-title="中国" tvg-chno="350" tvg-id="CT1.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1 综合
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.nB0fL4
+
+#EXTINF:-1 group-title="中国" tvg-chno="351" tvg-id="HNW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.zQ0djg
+
+#EXTINF:-1 group-title="中国" tvg-chno="352" tvg-id="DFW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png",东方卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.Hlo7LL
+
+#EXTINF:-1 group-title="中国" tvg-chno="353" tvg-id="ZJW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.b7vclU
+
+#EXTINF:-1 group-title="中国" tvg-chno="354" tvg-id="JSW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.Cal6rj
+
+#EXTINF:-1 group-title="中国" tvg-chno="355" tvg-id="XKW.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/300px-XingXong.svg.png",星空卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.fO0P1g
+
+#EXTINF:-1 group-title="中国" tvg-chno="356" tvg-id="CT2.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2 财经
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.VreTdg
+
+#EXTINF:-1 group-title="中国" tvg-chno="357" tvg-id="CT3.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3 文艺
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.t1g1pp
+
+#EXTINF:-1 group-title="中国" tvg-chno="358" tvg-id="CT4.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4 中文国际
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.Kho5Uv
+
+#EXTINF:-1 group-title="中国" tvg-chno="359" tvg-id="CT5.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5 体育
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.xcuTFQ
+
+#EXTINF:-1 group-title="中国" tvg-chno="360" tvg-id="C5P.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+ 体育赛事
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.fZVLqw
+
+#EXTINF:-1 group-title="中国" tvg-chno="361" tvg-id="CT6.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6 电影
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.lVmfbg
+
+#EXTINF:-1 group-title="中国" tvg-chno="362" tvg-id="CT7.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7 军事
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.IYhzyD
+
+#EXTINF:-1 group-title="中国" tvg-chno="363" tvg-id="CT8.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8 电视剧
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.IYzAZ0
+
+#EXTINF:-1 group-title="中国" tvg-chno="364" tvg-id="CT9.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9 纪录
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.746wlO
+
+#EXTINF:-1 group-title="中国" tvg-chno="365" tvg-id="C10.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10 科教
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.zHEOI5
+
+#EXTINF:-1 group-title="中国" tvg-chno="366" tvg-id="C11.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11 戏曲
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.k2f9l8
+
+#EXTINF:-1 group-title="中国" tvg-chno="367" tvg-id="C12.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12 社会与法
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.NDGkIF
+
+#EXTINF:-1 group-title="中国" tvg-chno="368" tvg-id="C13.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13 新闻
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.MOR4sR
+
+#EXTINF:-1 group-title="中国" tvg-chno="369" tvg-id="C14.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14 少儿
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.xWt26d
+
+#EXTINF:-1 group-title="中国" tvg-chno="370" tvg-id="C15.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15 音乐
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.AV9UY%2F
+
+#EXTINF:-1 group-title="中国" tvg-chno="371" tvg-id="C17.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17 农业农村
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.1xPJHc
+
+#EXTINF:-1 group-title="中国" tvg-chno="372" tvg-id="AHW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.d3gUX2
+
+#EXTINF:-1 group-title="中国" tvg-chno="373" tvg-id="BTV.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.rLFllC
+
+#EXTINF:-1 group-title="中国" tvg-chno="374" tvg-id="GDW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.r9Q%2BYN
+
+#EXTINF:-1 group-title="中国" tvg-chno="375" tvg-id="BTW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png",兵团卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.pbew4F
+
+#EXTINF:-1 group-title="中国" tvg-chno="376" tvg-id="CQW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.kDTuQJ
+
+#EXTINF:-1 group-title="中国" tvg-chno="377" tvg-id="DFN.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",东南卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.Mffjkb
+
+#EXTINF:-1 group-title="中国" tvg-chno="378" tvg-id="GZW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png",贵州卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.B0mudk
+
+#EXTINF:-1 group-title="中国" tvg-chno="379" tvg-id="GSW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.spJcR6
+
+#EXTINF:-1 group-title="中国" tvg-chno="380" tvg-id="GXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png",广西卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.JwK48n
+
+#EXTINF:-1 group-title="中国" tvg-chno="381" tvg-id="HAI.CN" tvg-logo="http://tc.hnntv.cn/public/imgs/wangshi1.png",海南卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.x9u96N
+
+#EXTINF:-1 group-title="中国" tvg-chno="382" tvg-id="HBW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png",河北卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.fGOeS%2B
+
+#EXTINF:-1 group-title="中国" tvg-chno="383" tvg-id="HNX.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.C9lcqg
+
+#EXTINF:-1 group-title="中国" tvg-chno="384" tvg-id="HLJ.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.f%2BMcxu
+
+#EXTINF:-1 group-title="中国" tvg-chno="385" tvg-id="HUB.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.mrKQ8U
+
+#EXTINF:-1 group-title="中国" tvg-chno="386" tvg-id="JLW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.VYeyuK
+
+#EXTINF:-1 group-title="中国" tvg-chno="387" tvg-id="JXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",江西卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.b09uGr
+
+#EXTINF:-1 group-title="中国" tvg-chno="388" tvg-id="LNW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",辽宁卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.QkFsa%2F
+
+#EXTINF:-1 group-title="中国" tvg-chno="389" tvg-id="NNN.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.AAp0%2BJ
+
+#EXTINF:-1 group-title="中国" tvg-chno="390" tvg-id="NXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png",宁夏卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.KWudj8
+
+#EXTINF:-1 group-title="中国" tvg-chno="391" tvg-id="QHW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png",青海卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.L%2FB4If
+
+#EXTINF:-1 group-title="中国" tvg-chno="392" tvg-id="SIC.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png",四川卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.zzx896
+
+#EXTINF:-1 group-title="中国" tvg-chno="393" tvg-id="SZW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.x6scOM
+
+#EXTINF:-1 group-title="中国" tvg-chno="394" tvg-id="SDW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png",山东卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.TzIeRg
+
+#EXTINF:-1 group-title="中国" tvg-chno="395" tvg-id="SXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png",山西卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.ZA6UDO
+
+#EXTINF:-1 group-title="中国" tvg-chno="396" tvg-id="SXS.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png",陕西卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.EfPqTC
+
+#EXTINF:-1 group-title="中国" tvg-chno="397" tvg-id="TJW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.YmusJE
+
+#EXTINF:-1 group-title="中国" tvg-chno="398" tvg-id="YNW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",云南卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.mm7UIC
+
+#EXTINF:-1 group-title="中国" tvg-chno="399" tvg-id="XZW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png",西藏卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.mW48vk
+
+#EXTINF:-1 group-title="中国" tvg-chno="400" tvg-id="XJW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",新疆卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.GOm10D
+
+#EXTINF:-1 group-title="中国" tvg-chno="401" tvg-id="XMW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png",厦门卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.RU7PXw
+
+#EXTINF:-1 group-title="中国" tvg-chno="402" tvg-id="YBW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png",延边卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.sGnf9i
+
+#EXTINF:-1 group-title="新闻" tvg-ID="Sky.AU" tvg-chno="403" tvg-logo="http://static.epg.best/au/Action.au.png",Australia Channel
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.CtE2gV
+
+#EXTINF:-1 group-title="新闻" tvg-ID="A24.AU" tvg-chno="404" tvg-logo="http://static.epg.best/au/ABCNews24.au.png",ABC News 24
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.MPFDaM
+
+#EXTINF:-1 group-title="新闻" tvg-chno="405" tvg-id="Jaz.News" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png",Al Jazeera
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.FVVfXC
+
+#EXTINF:-1 group-title="新闻" logo="http://static.epg.best/kr/ArirangTV.kr.png" tvg-ID="Ari.KR" tvg-chno="406",Arirang(日韩)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.c%2FrLa2
+
+#EXTINF:-1 group-title="新闻" tvg-ID="AFR.News" tvg-chno="407" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png",Africa News
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.3g9PsL
+
+#EXTINF:-1 group-title="新闻" tvg-ID="Bbw.News" tvg-chno="408" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png",BBC World News
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.ZpGY5o
+
+#EXTINF:-1 group-title="新闻" tvg-chno="409" tvg-id="Blo.News" tvg-logo="http://static.epg.best/us/BloombergTV.us.png",Bloomberg
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.BuBiWZ
+
+#EXTINF:-1 group-title="新闻" tvg-chno="410" tvg-id="CGN.News" tvg-logo="http://static.epg.best/au/CGTN.au.png",CGTN
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.zAPvtC
+
+#EXTINF:-1 group-title="新闻" tvg-chno="411" tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png",CNN
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.CgMefw
+
+#EXTINF:-1 group-title="新闻" tvg-chno="412" tvg-id="CNW.News" tvg-logo="https://static.epg.best/nz/CNBC.nz.png",CNBC Asia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.LNmXcH
+
+#EXTINF:-1 group-title="新闻" tvg-chno="413" tvg-id="Dwe.News" tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png",DW
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.WoTar%2B
+
+#EXTINF:-1 group-title="新闻" tvg-chno="414" tvg-id="EUR.News" tvg-logo="https://static.epg.best/gb/EuroNews.uk.png",EuroNews
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.9p0ZMg
+
+#EXTINF:-1 group-title="新闻" tvg-chno="415" tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png",Fox News
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.s8nfn0
+
+#EXTINF:-1 group-title="新闻" tvg-ID="Fra.News" tvg-chno="416" tvg-logo="http://static.epg.best/fr/France24English.fr.png",France 24
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.LVtbVD
+
+#EXTINF:-1 group-title="新闻" tvg-chno="417" tvg-id="FHJ.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png",鳳凰资讯
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.lLMQWD
+
+#EXTINF:-1 group-title="新闻" tvg-chno="418" tvg-id="FHW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png",鳳凰衛視中文
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.5nB3Wx
+
+#EXTINF:-1 group-title="新闻" tvg-chno="419" tvg-id="NHW.JP" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png",NHK World
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.cEgzeH
+
+#EXTINF:-1 group-title="新闻" tvg-chno="420" tvg-id="N27.IN" tvg-logo="http://static.epg.best/in/NDTV24x7.in.png",NDTV 24X7
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.70xmgs
+
+#EXTINF:-1 group-title="新闻" tvg-chno="421" tvg-id="RT.News" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png",RT
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.YP4A9L
+
+#EXTINF:-1 group-title="新闻" tvg-ID="Sky.News" tvg-chno="422" tvg-id="Sky.News" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png",Sky News
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.dIgle%2F
+
+#EXTINF:-1 group-title="新闻" tvg-chno="423" tvg-id="TLS.News" tvg-logo="http://static.epg.best/es/Telesur.es.png",Telesur
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.YVt%2FoU
+
+#EXTINF:-1 group-title="新闻" tvg-chno="424" tvg-id="TRT.News" tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png",TRT World
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.iwu%2FFC
+
+#EXTINF:-1 group-title="电影" tvg-chno="425" tvg-id="Fli.IN" tvg-logo="https://static.epg.best/in/AndFlix.in.png",&Flix
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.HIL%2Bvp
+
+#EXTINF:-1 group-title="电影" tvg-chno="426" tvg-id="Cin.Asia" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png",Cinemax
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.ce5k5q
+
+#EXTINF:-1 group-title="电影" tvg-chno="427" tvg-id="Ciw.Asia" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png",CinemaWorld
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.fUJc%2BT
+
+#EXTINF:-1 group-title="电影" tvg-chno="428" tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png",FOX Movies
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.j3vAhO
+
+#EXTINF:-1 group-title="电影" tvg-chno="429" tvg-id="FAM.Asia" tvg-logo="https://static.epg.best/id/FOXActionMovies.id.png",Fox Action Movies
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.whJ%2Fla
+
+#EXTINF:-1 group-title="电影" tvg-chno="430" tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png",Fox Family Movies
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.VrUnbj
+
+#EXTINF:-1 group-title="电影" tvg-chno="431" tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png",HBO
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.5HbxzJ
+
+#EXTINF:-1 group-title="电影" tvg-chno="432" tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png",HBO Family
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.svdMOD
+
+#EXTINF:-1 group-title="电影" tvg-chno="433" tvg-id="Hbh.Asia" tvg-logo="https://static.epg.best/id/HBOHits.id.png",HBO Hits
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.nyY0%2FD
+
+#EXTINF:-1 group-title="电影" tvg-chno="434" tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png",HBO Signature
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.W%2FPGu5
+
+#EXTINF:-1 group-title="电影" tvg-chno="435" tvg-id="HIT.MY" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png",Hits
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.gOWJVv
+
+#EXTINF:-1 group-title="电影" tvg-chno="436" tvg-id="HIM.MY" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png",Hits Movies
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.JEyXZ2
+
+#EXTINF:-1 group-title="电影" tvg-chno="437" tvg-id="FM4.UK" tvg-logo="https://static.epg.best/gb/Film4.uk.png",Flim 4
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.AbuQTh
+
+#EXTINF:-1 group-title="电影" tvg-chno="438" tvg-id="Red.Asia" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png",Red by HBO
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.hXNIhZ
+
+#EXTINF:-1 group-title="电影" tvg-chno="439" tvg-id="PAR.Asia" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png",Paramount Network
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.M06VqT
+
+#EXTINF:-1 group-title="电影" tvg-chno="440" tvg-id="RON.ID" tvg-logo="http://static.epg.best/in/RomedyNow.in.png",Romedy Now
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.WzTwnf
+
+#EXTINF:-1 group-title="电影" tvg-chno="441" tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png",Sony Movies Action
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.pLxT%2BM
+
+#EXTINF:-1 group-title="电影" tvg-ID="SBM.AU" tvg-chno="442" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/3374ed8c-8b84-4703-8449-7142e3bd838e.png",SBS World Movies
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.aBOg77
+
+#EXTINF:-1 group-title="电影" tvg-chno="443" tvg-id="THR.MY" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.gR9fxz
+
+#EXTINF:-1 group-title="电影" tvg-chno="444" tvg-id="WAR.Asia" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png",Warner TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.fQSJ7A
+
+#EXTINF:-1 group-title="电影" tvg-chno="445" tvg-id="TYP.Asia" tvg-logo="http://console.celestialtiger.com/images/upload/f50f7261d3c260ac6e3a38f85152b3f33833fc52.png",天映频道
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.uwodJK
+
+#EXTINF:-1 group-title="电影" tvg-chno="446" tvg-id="TYJ.Asia" tvg-logo="http://console.celestialtiger.com/images/upload/ec697ac53e8b3f6607cf7aeaf42a47c2da5a7607.png",天映经典频
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.OUMOl9
+
+#EXTINF:-1 group-title="电影" tvg-chno="447" tvg-id="SCM.Asia" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png",衛視電影
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.JUaI1C
+
+#EXTINF:-1 group-title="电影" tvg-chno="448" tvg-id="WXK.TW" tvg-logo="https://www.nowtv.now.com/media/logo/140-wbg-e.png",衛視卡式
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.FuAk0n
+
+#EXTINF:-1 group-title="电影" tvg-chno="449" tvg-id="WOW.JP" tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/35.jpg",シネフィルWOWOW
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.JF04Wb
+
+#EXTINF:-1 group-title="电影" tvg-chno="450" tvg-id="tvN.Asia" tvg-logo="https://www.asiantvawards.com/wp-content/uploads/2017/08/tvN-movie-logo-no-tagline.jpg",tvN Movies
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.VrTOGz
+
+#EXTINF:-1 group-title="少儿" tvg-chno="451" tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png",Animax
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.GYpNqB
+
+#EXTINF:-1 group-title="少儿" tvg-ID="ABK.AU" tvg-chno="452" tvg-logo="https://static.epg.best/au/ABCcomedyABCkids.au.png",ABC Kids
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.%2BU9iQ3
+
+#EXTINF:-1 group-title="少儿" tvg-chno="453" tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png",Baby First
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.13SuZY
+
+#EXTINF:-1 group-title="少儿" tvg-chno="454" tvg-id="BOM.Asia" tvg-logo="https://static.epg.best/br/Boomerang.br.png",Boomerang
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.rFz%2B5q
+
+#EXTINF:-1 group-title="少儿" tvg-chno="455" tvg-id="CBE.UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png",CBeebies
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.diMIJP
+
+#EXTINF:-1 group-title="少儿" tvg-chno="456" tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png",Da Vinci
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.loJZJL
+
+#EXTINF:-1 group-title="少儿" tvg-chno="457" tvg-id="Mim.Asia" tvg-logo="https://static.epg.best/sg/MiaoMi.sg.png",妙米
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.WbXyXI
+
+#EXTINF:-1 group-title="少儿" tvg-chno="458" tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png",Nick
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.pfvvYg
+
+#EXTINF:-1 group-title="少儿" tvg-chno="459" tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png",Nick Jr
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.kiBT2Z
+
+#EXTINF:-1 group-title="少儿" tvg-chno="460" tvg-id="Toku.US" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png",TokuSHOUTsu
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.YjPMyZ
+
+#EXTINF:-1 group-title="少儿" tvg-chno="461" tvg-id="POM.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png",POP Max
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.DuLDG%2B
+
+#EXTINF:-1 group-title="纪录片" tvg-chno="462" tvg-id="ANI.US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png",Animal Planet
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.%2FvWWlk
+
+#EXTINF:-1 group-title="纪录片" tvg-chno="463" tvg-id="BBE.Asia" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png",BBC Earth
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.6kE%2BIs
+
+#EXTINF:-1 group-title="纪录片" tvg-chno="464" tvg-id="CIA.MY" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png",Crime + Investigation
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.Trukb8
+
+#EXTINF:-1 group-title="纪录片" tvg-chno="465" tvg-id="DIS.US" tvg-logo="https://static.epg.best/au/DiscoveryChannel.au.png",Discovery
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.mXLoCt
+
+#EXTINF:-1 group-title="纪录片" tvg-ID="DIS.Asia" tvg-chno="466" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png",Discovery Asia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.KLecCG
+
+#EXTINF:-1 group-title="纪录片" tvg-chno="467" tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png",History
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.jHfW4%2F
+
+#EXTINF:-1 group-title="纪录片" tvg-chno="468" tvg-id="PBS.UK" tvg-logo="https://static.epg.best/gb/PBSAmerica.uk.png",PBS America
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.1euGC2
+
+#EXTINF:-1 group-title="纪录片" tvg-ID="NGO.US" tvg-chno="469" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png",National Geographic
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.CX5mdQ
+
+#EXTINF:-1 group-title="纪录片" tvg-chno="470" tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png",National Geographic Wild
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.tpto1V
+
+#EXTINF:-1 group-title="纪录片" tvg-chno="471" tvg-id="NGP.US" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png",National Geographic People
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.ApH01J
+
+#EXTINF:-1 group-title="家庭娱乐" tvg-ID="AFN.MY" tvg-chno="472" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png",Asian Food Network
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.wz1hSX
+
+#EXTINF:-1 group-title="家庭娱乐" tvg-ID="AXN.Int" tvg-chno="473" tvg-logo="http://static.epg.best/id/AXN.id.png",AXN
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.ohxAnB
+
+#EXTINF:-1 group-title="家庭娱乐" tvg-chno="474" tvg-id="BAE.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rtl_cbs_entertainment_hd.png/400px-Rtl_cbs_entertainment_hd.png",Blue Ant Entertainment
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.swXwos
+
+#EXTINF:-1 group-title="家庭娱乐" tvg-chno="475" tvg-id="BAX.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png",Blue Ant Extreme
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.xoUy88
+
+#EXTINF:-1 group-title="家庭娱乐" tvg-ID="CHV.Asia" tvg-chno="476" tvg-logo="https://static.epg.best/in/ChannelV.in.png",Channel [V]
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.gn4S6v
+
+#EXTINF:-1 group-title="家庭娱乐" tvg-chno="477" tvg-id="COM.US" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png",Comedy Central
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.TnVo8D
+
+#EXTINF:-1 group-title="家庭娱乐" tvg-chno="478" tvg-id="HGT.US" tvg-logo="https://static.epg.best/us/HGTV.us.png",HGTV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.9%2BvoX6
+
+#EXTINF:-1 group-title="家庭娱乐" tvg-chno="479" tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png",Fox
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.J%2FjXK6
+
+#EXTINF:-1 group-title="家庭娱乐" tvg-chno="480" tvg-id="FXL.Asia" tvg-logo="https://static.epg.best/in/FOXLife.in.png",Fox Life
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.2huY3O
+
+#EXTINF:-1 group-title="家庭娱乐" tvg-chno="481" tvg-id="FXC.Asia" tvg-logo="https://static.epg.best/it/FoxCrime.it.png",Fox Crime
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.HRCILh
+
+#EXTINF:-1 group-title="家庭娱乐" tvg-chno="482" tvg-id="FTV.Int" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png",Fashion TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.w0%2BCNr
+
+#EXTINF:-1 group-title="家庭娱乐" tvg-ID="Kix.Asia" tvg-chno="483" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png",KIX
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.bgrtjb
+
+#EXTINF:-1 group-title="家庭娱乐" tvg-chno="484" tvg-id="MTV.US" tvg-logo="https://static.epg.best/il/MTV.il.png",MTV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.3B98hP
+
+#EXTINF:-1 group-title="家庭娱乐" tvg-ID="OUT.US" tvg-chno="485" tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png",Outdoor Channel
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.6boLod
+
+#EXTINF:-1 group-title="家庭娱乐" tvg-ID="SBF.AU" tvg-chno="486" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/ad6c5b49-3c34-4a6d-ab5b-d1bd2eea8fda.png",SBS Food
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.ADxEpE
+
+#EXTINF:-1 group-title="家庭娱乐" tvg-ID="TLC.IN" tvg-chno="487" tvg-logo="http://static.epg.best/de/TLC.de.png",TLC
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.PvQE2C
+
+#EXTINF:-1 group-title="体育" tvg-chno="488" tvg-id="EP1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.rBatK2
+
+#EXTINF:-1 group-title="体育" tvg-chno="489" tvg-id="EP2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.GdLNIz
+
+#EXTINF:-1 group-title="体育" tvg-chno="490" tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png",Astro Supersport
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.pUOv3p
+
+#EXTINF:-1 group-title="体育" tvg-chno="491" tvg-id="AS2.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png",Astro Supersport 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.mNY5xT
+
+#EXTINF:-1 group-title="体育" tvg-chno="492" tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png",Astro Supersport 3
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.CxHuv7
+
+#EXTINF:-1 group-title="体育" tvg-chno="493" tvg-id="AS4.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png",Astro Supersport 4
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.E2pPJ9
+
+#EXTINF:-1 group-title="体育" tvg-chno="494" tvg-id="BT1.UK" tvg-logo="https://static.epg.best/gb/BTSport1.uk.png",BT Sports 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.NlA4lH
+
+#EXTINF:-1 group-title="体育" tvg-chno="495" tvg-id="BT2.UK" tvg-logo="https://static.epg.best/gb/BTSport1.uk.png",BT Sports 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.R9ASXx
+
+#EXTINF:-1 group-title="体育" tvg-chno="496" tvg-id="B01.th" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png",beIN Sports 1 Asia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.jFTdNP
+
+#EXTINF:-1 group-title="体育" tvg-chno="497" tvg-id="B02.th" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png",beIN Sports 2 Asia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.MH5Kth
+
+#EXTINF:-1 group-title="体育" tvg-chno="498" tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.AxT9Lg
+
+#EXTINF:-1 group-title="体育" tvg-chno="499" tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png",ESPN 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.9ZZdgX
+
+#EXTINF:-1 group-title="体育" tvg-chno="500" tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png",ESPN Brasil
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.GpN2Kj
+
+#EXTINF:-1 group-title="体育" tvg-chno="501" tvg-id="111.PL" tvg-logo="https://static.epg.best/pl/ElevenSport1.pl.png",Eleven Sports Polandia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.6%2FisyC
+
+#EXTINF:-1 group-title="体育" tvg-chno="502" tvg-id="112.PL" tvg-logo="https://static.epg.best/pl/ElevenSport1.pl.png",Eleven Sports 2 Polandia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.h5mf8I
+
+#EXTINF:-1 group-title="体育" tvg-chno="503" tvg-id="FS1.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png",Fox Sports 1 Asia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.6mqYhO
+
+#EXTINF:-1 group-title="体育" tvg-chno="504" tvg-id="FS2.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png",Fox Sports 2 Asia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.kqrRdF
+
+#EXTINF:-1 group-title="体育" tvg-chno="505" tvg-id="FS3.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png",Fox Sports 3 Asia
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.hTPREq
+
+#EXTINF:-1 group-title="体育" tvg-chno="506" tvg-id="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Матч
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.7SdKNc
+
+#EXTINF:-1 group-title="体育" tvg-chno="507" tvg-id="FB1.RU" tvg-logo="https://static.epg.best/ru/MatchFutbol1.ru.png",Матч! Футбол 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.CWzXoX
+
+#EXTINF:-1 group-title="体育" tvg-ID="MLB.US" tvg-chno="508" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png",MLB Network
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.ijOsgX
+
+#EXTINF:-1 group-title="体育" tvg-ID="NFL.US" tvg-chno="509" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",NFL Network
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.MROuYM
+
+#EXTINF:-1 group-title="体育" tvg-ID="OLY.US" tvg-chno="510" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png",Olympic Channel
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.CG4TVc
+
+#EXTINF:-1 group-title="体育" tvg-ID="SK1.AU" tvg-chno="511" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png",Sky Racing 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.8GYb%2Bt
+
+#EXTINF:-1 group-title="体育" tvg-ID="SK2.AU" tvg-chno="512" tvg-logo="https://media.info/i/lf/300/1514269377/6411.png",Sky Racing 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.An2O8Q
+
+#EXTINF:-1 group-title="体育" tvg-ID="STC.AU" tvg-chno="513" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SRW/SRH_425x243.png",Sky Thoroughbred Central
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.u2LJfr
+
+#EXTINF:-1 group-title="体育" tvg-ID="SP1.PT" tvg-chno="514" tvg-logo="https://static.epg.best/pt/SportTV1.pt.png",Sport TV 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.BS5Q3t
+
+#EXTINF:-1 group-title="体育" tvg-ID="SP2.PT" tvg-chno="515" tvg-logo="https://static.epg.best/pt/SportTV2.pt.png",Sport TV 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.upKnc4
+
+#EXTINF:-1 group-title="体育" tvg-ID="SP3.PT" tvg-chno="516" tvg-logo="https://static.epg.best/pt/SportTV3.pt.png",Sport TV 3
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.fdvc1n
+
+#EXTINF:-1 group-title="体育" tvg-ID="SP4.PT" tvg-chno="517" tvg-logo="https://static.epg.best/pt/SportTV4.pt.png",Sport TV 4
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.%2B1R%2BSZ
+
+#EXTINF:-1 group-title="体育" tvg-ID="SP5.PT" tvg-chno="518" tvg-logo="https://static.epg.best/pt/SportTV5.pt.png",Sport TV 5
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.7Uts7U
+
+#EXTINF:-1 group-title="体育" tvg-chno="519" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Trackside1nz.png",TAB Trackside 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.8vp8IQ
+
+#EXTINF:-1 group-title="体育" tvg-chno="520" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Trackside2nz.png",TAB Trackside 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.G%2Bv4Uv
+
+#EXTINF:-1 group-title="体育" tvg-chno="521" tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png",Tennis Channel
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.KGeXkU
+
+#EXTINF:-1 group-title="日韩" tvg-ID="MBC.KR" tvg-chno="522" tvg-logo="https://static.epg.best/kr/MBC.kr.png",MBC
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.CbFojz
+
+#EXTINF:-1 group-title="日韩" tvg-ID="SBS.KR" tvg-chno="523" tvg-logo="https://static.epg.best/kr/SBS.kr.png",SBS
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.3CRhzZ
+
+#EXTINF:-1 group-title="日韩" tvg-ID="KSW.KR" tvg-chno="524" tvg-logo="https://static.epg.best/us/KBSWorld.us.png",KBS World
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.dUc6rx
+
+#EXTINF:-1 group-title="日韩" tvg-chno="525" tvg-id="tvN.KR" tvg-logo="https://static.epg.best/kr/tvN.kr.png",tVN
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.Fk7mR7
+
+#EXTINF:-1 group-title="日韩" tvg-ID="ONE.KR" tvg-chno="526" tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logo-small_0.png",One TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.qhDn%2FW
+
+#EXTINF:-1 group-title="日韩" tvg-chno="527" tvg-id="YTN.KR" tvg-logo="https://static.epg.best/kr/YTN.kr.png",YTN
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.lC0Fox
+
+#EXTINF:-1 group-title="日韩" tvg-chno="528" tvg-id="YTS.KR" tvg-logo="https://static.epg.best/kr/YTNScience.kr.png",YTN Science
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.0YVzk4
+
+#EXTINF:-1 group-title="日韩" tvg-chno="529" tvg-id="NHG.JP" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png",NHK総合
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.H%2BdRU7
+
+#EXTINF:-1 group-title="日韩" tvg-chno="530" tvg-id="NHE.JP" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png",NHK教育
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.GNHAmp
+
+#EXTINF:-1 group-title="日韩" tvg-ID="NWP.JP" tvg-chno="531" tvg-logo="http://nhkworldpremium.com/img/common/logo.png",NHK World Premium
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.u0nJfu
+
+#EXTINF:-1 group-title="日韩" tvg-chno="532" tvg-id="ASH.JP" tvg-logo="https://static.epg.best/jp/Asahi1.jp.png",テレビ朝日
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.UIpPzq
+
+#EXTINF:-1 group-title="日韩" tvg-chno="533" tvg-id="TOK.JP" tvg-logo="https://static.epg.best/jp/TVTokyo.jp.png",テレビ東京
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.65R0Rk
+
+#EXTINF:-1 group-title="日韩" tvg-chno="534" tvg-id="TBS.JP" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg",TBSテレビ
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.3qshst
+
+#EXTINF:-1 group-title="日韩" tvg-chno="535" tvg-id="FUJ.JP" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",フジテレビ
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.LVazSq
+
+#EXTINF:-1 group-title="日韩" tvg-chno="536" tvg-id="NIP.JP" tvg-logo="https://static.epg.best/jp/NipponTV.jp.png",日テレ
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.6Vsu2E
+
+#EXTINF:-1 group-title="日韩" tvg-chno="537" tvg-id="N24.JP" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg",日テレNEWS24
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.k65Osc
+
+#EXTINF:-1 group-title="日韩" tvg-ID="WKW.JP" tvg-chno="538" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png",WakuWaku Japan
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.N0hhck
+
+#EXTINF:-1 group-title="英格兰精选" tvg-chno="539" tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png",BBC 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.r%2B1xen
+
+#EXTINF:-1 group-title="英格兰精选" tvg-chno="540" tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png",BBC 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.bNgwU6
+
+#EXTINF:-1 group-title="英格兰精选" tvg-chno="541" tvg-id="BB4.UK" tvg-logo="http://static.epg.best/gb/BBC4.uk.png",BBC 4
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.8n6c9E
+
+#EXTINF:-1 group-title="英格兰精选" tvg-chno="542" tvg-id="BBL.Asia" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png",BBC Lifestyle
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.Wz6iIG
+
+#EXTINF:-1 group-title="英格兰精选" tvg-chno="543" tvg-id="CBB.UK" tvg-logo="https://static.epg.best/gb/CBBC.uk.png",CBBC
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.e9BlPT
+
+#EXTINF:-1 group-title="英格兰精选" tvg-chno="544" tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png",ITV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.BZpF0m
+
+#EXTINF:-1 group-title="英格兰精选" tvg-chno="545" tvg-id="IT2.UK" tvg-logo="http://static.epg.best/gb/ITV2.uk.png",ITV2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.kAMI%2BC
+
+#EXTINF:-1 group-title="英格兰精选" tvg-chno="546" tvg-id="IT3.UK" tvg-logo="http://static.epg.best/gb/ITV3.uk.png",ITV3
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.o5GWbr
+
+#EXTINF:-1 group-title="英格兰精选" tvg-chno="547" tvg-id="CH4.UK" tvg-logo="https://static.epg.best/gb/Channel4.uk.png",Channel 4
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.ehiBzk
+
+#EXTINF:-1 group-title="英格兰精选" tvg-ID="ABC.AU" tvg-chno="548" tvg-logo="https://static.epg.best/au/ABC.au.png",ABC
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.HKSasG
+
+#EXTINF:-1 group-title="英格兰精选" tvg-chno="549" tvg-id="PRI.NZ" tvg-logo="https://static.epg.best/nz/PrimeTV.nz.png",Prime
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.6JMz%2BJ
+
+#EXTINF:-1 group-title="英格兰精选" tvg-ID="AB2.AU" tvg-chno="550" tvg-logo="https://static.epg.best/au/ABCComedy.au.png",ABC Comedy
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.AGHApD
+
+#EXTINF:-1 group-title="英格兰精选" tvg-ID="AB3.AU" tvg-chno="551" tvg-logo="https://static.epg.best/au/ABCME.au.png",ABC ME
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.SxTNZy
+
+#EXTINF:-1 group-title="英格兰精选" tvg-ID="SB1.AU" tvg-chno="552" tvg-logo="https://static.epg.best/au/SBS.au.png",SBS One
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.RHxqJv
+
+#EXTINF:-1 group-title="英格兰精选" tvg-ID="SBV.AU" tvg-chno="553" tvg-logo="https://static.epg.best/au/SBSViceland.au.png",SBS Viceland
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.LTC5Fo
+
+#EXTINF:-1 group-title="美洲精选" tvg-chno="554" tvg-id="" tvg-logo="https://static.epg.best/mx/AztecaUno.mx.png",Azteca Uno
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.Qg92YK
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="BUZ.US" tvg-chno="555" tvg-logo="https://static.epg.best/us/BuzzrTV.us.png",Buzzr
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.qBEfOO
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="BET.US" tvg-chno="556" tvg-logo="https://static.epg.best/us/BET.us.png",BET
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.wMjQOC
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="CBC.CA" tvg-chno="557" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.v9k2Zv
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="CBS.US" tvg-chno="558" tvg-logo="https://static.epg.best/us/CBSSportsNetwork.us.png",CBS Sports HQ
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.MicYk%2F
+
+#EXTINF:-1 group-title="美洲精选" tvg-chno="559" tvg-id="" tvg-logo="https://static.epg.best/us/ChargeTV.us.png",Charge!
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.rKxnDF
+
+#EXTINF:-1 group-title="美洲精选" tvg-chno="560" tvg-id="CMT.US" tvg-logo="https://static.epg.best/us/CMT.us.png",CMT
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.%2BKddL7
+
+#EXTINF:-1 group-title="美洲精选" tvg-chno="561" tvg-id="COU.US" tvg-logo="http://www.courttv.com/wp-content/themes/courttv/assets/images/logo.png",Court TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.kDzNXV
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="CAS.US" tvg-chno="562" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png",Classic Arts Showcase
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.1AXA3c
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="EP1.US" tvg-chno="563" tvg-logo="https://static.epg.best/us/EPIX.us.png",Epix(East)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.dwNMBM
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="EP2.US" tvg-chno="564" tvg-logo="https://static.epg.best/us/EPIX2.us.png",Epix 2 East)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.cVQGGN
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="EP2.US" tvg-chno="565" tvg-logo="https://static.epg.best/us/Cinemax.us.png",Cinemax USA(East)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.yPtT5O
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="EP2.US" tvg-chno="566" tvg-logo="https://static.epg.best/us/Cinemax.us.png",Cinemax USA(West)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.EgDAB9
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="GSN.CA" tvg-chno="567" tvg-logo="https://static.epg.best/us/GameShowNetwork.us.png",Game Show Central
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.egBfdx
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="GLO.BR" tvg-chno="568" tvg-logo="https://static.epg.best/pt/Globo.pt.png",Globo
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.09Y8Sq
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="GLN.CA" tvg-chno="569" tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png",Global News
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.RZYtwB
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="HBE.US" tvg-chno="570" tvg-logo="https://static.epg.best/us/HBO.us.png",HBO USA(East)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.jr9sJA
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="HBW.US" tvg-chno="571" tvg-logo="https://static.epg.best/us/HBO.us.png",HBO USA(West)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.o05sCN
+
+#EXTINF:-1 group-title="美洲精选" tvg-chno="572" tvg-id="ICI.INT" tvg-logo="http://static.epg.best/ca/ICITelevisionMontreal.ca.png",ICI
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.5CNHwf
+
+#EXTINF:-1 group-title="美洲精选" tvg-chno="573" tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png",ICI Tele Montreal
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.JMfLOu
+
+#EXTINF:-1 group-title="美洲精选" tvg-chno="574" tvg-id="ICI.News" tvg-logo="https://static.epg.best/ca/RDINews.ca.png",ICI RDI
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.4nLWrb
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="MAV.US" tvg-chno="575" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png",MavTV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.Nao6v5
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="WPSU.US" tvg-chno="576" tvg-logo="https://static.epg.best/gb/PBSAmerica.uk.png",PBS
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.GtliXd
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="POP.US" tvg-chno="577" tvg-logo="https://static.epg.best/us/PopTV.us.png",Pop
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.wSu5VH
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="REC.BR" tvg-chno="578" tvg-logo="https://static.epg.best/br/RecordTV.br.png",Record TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.2j2%2FSG
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="SHE.US" tvg-chno="579" tvg-logo="https://static.epg.best/us/Showtime.us.png",Showtime USA(East)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.V0v9%2F2
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="SHW.US" tvg-chno="580" tvg-logo="https://static.epg.best/us/Showtime.us.png",Showtime USA(West)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.za45Ll
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="STW.US" tvg-chno="581" tvg-logo="https://static.epg.best/us/Starz.us.png",STARZ(West)
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.r%2FM%2BMt
+
+#EXTINF:-1 group-title="美洲精选" tvg-ID="STE.US" tvg-chno="582" tvg-logo="https://static.epg.best/us/StarzEncore.us.png",STARZ Encore
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.zAjTzK
+
+#EXTINF:-1 group-title="东南亚精选" tvg-chno="583" tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png",TVRI
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.ZlOTD2
+
+#EXTINF:-1 group-title="东南亚精选" tvg-chno="584" tvg-id="SCT.ID" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png",SCTV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.B3X2R8
+
+#EXTINF:-1 group-title="东南亚精选" tvg-chno="585" tvg-id="RCT.ID" tvg-logo="https://static.epg.best/id/RCTI.id.png",RCTI
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.lYVTio
+
+#EXTINF:-1 group-title="东南亚精选" tvg-chno="586" tvg-id="IND.ID" tvg-logo="https://static.epg.best/id/Indosiar.id.png",Indosiar
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.GwKuTY
+
+#EXTINF:-1 group-title="东南亚精选" tvg-chno="587" tvg-id="TV3.TH" tvg-logo="https://static.epg.best/th/Channel3.th.png",ดูทีวีสีช่อง 3
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.N3L%2F%2Ba
+
+#EXTINF:-1 group-title="东南亚精选" tvg-chno="588" tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png",ช่อง 7
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.izr2oz
+
+#EXTINF:-1 group-title="东南亚精选" tvg-chno="589" tvg-id="MON.TH" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/LOGO.png",Mono 29
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.78VX9y
+
+#EXTINF:-1 group-title="东南亚精选" tvg-chno="590" tvg-id="T31.TH" tvg-logo="https://www.one31.net/theme/images/logo-one31.png",ONE 31
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.dmVJCk
+
+#EXTINF:-1 group-title="东南亚精选" tvg-chno="591" tvg-id="KAP.PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kapamilya_Channel.png/345px-Kapamilya_Channel.png",Kapamilya Channel
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.qh3eOX
+
+#EXTINF:-1 group-title="东南亚精选" tvg-chno="592" tvg-id="ANC.PH" tvg-logo="https://static.epg.best/ph/ANC.ph.png",ANC
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.mhhNly
+
+#EXTINF:-1 group-title="东南亚精选" tvg-chno="593" tvg-id="VT1.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv1-hd.png",VTV 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.Zi3jNf
+
+#EXTINF:-1 group-title="东南亚精选" tvg-chno="594" tvg-id="VT6.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png",VTV 6
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.VDhDcS
+
+#EXTINF:-1 group-title="东南亚精选" tvg-chno="595" tvg-id="" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png",MRTV-4
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.hzPsFZ
+
+#EXTINF:-1 group-title="印度精选" tvg-chno="596" tvg-id="COL.IN" tvg-logo="https://static.epg.best/in/Colors.in.png",Colors
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.zLImKD
+
+#EXTINF:-1 group-title="印度精选" tvg-chno="597" tvg-id="ZTV.IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvapac/list/170x120/androidapphover_2.png",Zee TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.OF%2B65Q
+
+#EXTINF:-1 group-title="印度精选" tvg-chno="598" tvg-id="ZZC.IN" tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png",Zee Cinema
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.%2BuQpgP
+
+#EXTINF:-1 group-title="印度精选" tvg-ID="RAJ.IN" tvg-chno="599" tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png",Raj TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.7WgG4Q
+
+#EXTINF:-1 group-title="印度精选" tvg-chno="600" tvg-id="SUN.IN" tvg-logo="https://static.epg.best/in/SunTV.in.png",Sun TV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.Hyl10U
+
+#EXTINF:-1 group-title="印度精选" tvg-ID="Kal.IN" tvg-chno="601" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png",Kalaignar
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.VvJ7Xo
+
+#EXTINF:-1 group-title="印度精选" tvg-chno="602" tvg-id="PIT.IN" tvg-logo="https://www.pitaara.tv/wp-content/uploads/2020/09/pitaaralogo.png",Pitaara
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.FN8K9Y
+
+#EXTINF:-1 group-title="印度精选" tvg-chno="603" tvg-id="ZZP.IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/170x120/09zeepunjabharyanahimazeep.png",Zee Punjabi
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.znHE2o
+
+#EXTINF:-1 group-title="印度精选" tvg-chno="604" tvg-id="COL.BD" tvg-logo="https://static.epg.best/in/ColorsBangla.in.png",Colors Bangla
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.6B5GBc
+
+#EXTINF:-1 group-title="印度精选" tvg-chno="605" tvg-id="ZBC.IN" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png",Zee Bangla Cinema
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.W%2F31hB
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="606" tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png",Das Erste
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.UKoeGn
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="607" tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png",One
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.G%2BBc8U
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="608" tvg-id="KIK.DE" tvg-logo="http://static.epg.best/de/Kika.de.png",Kika
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.YazX0A
+
+#EXTINF:-1 group-title="欧洲精选" tvg-ID="TF1.FR" tvg-chno="609" tvg-logo="http://static.epg.best/fr/TF1.fr.png",TF1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.NYrnoA
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="610" tvg-id="FR2.FR" tvg-logo="http://static.epg.best/fr/France2.fr.png",France 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.EQ4yN3
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="611" tvg-id="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png",TV5 Monde
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.MwBil6
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="612" tvg-id="CA5.IT" tvg-logo="https://static.epg.best/it/Canale5.it.png",Canale 5
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.rmPWsE
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="613" tvg-id="RA3.IT" tvg-logo="https://www.raisport.rai.it/dl/img/2019/10/1600x900_1571057814544.Rai_3_HD_Logo_RGB.jpg",Rai 3
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.tTsR7y
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="614" tvg-id="IT1.IT" tvg-logo="https://static.epg.best/it/Italia1.it.png",Italia 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.ydg07w
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="615" tvg-id="LA1.ES" tvg-logo="https://static.epg.best/es/LA1.es.png",LA 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.4jA811
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="616" tvg-id="LA2.ES" tvg-logo="https://static.epg.best/es/LA2.es.png",LA 2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.LbYiGE
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="617" tvg-id="Cla.ES" tvg-logo="https://static.epg.best/es/ClanTVE.es.png",Clan
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.VgcyRR
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="618" tvg-id="RT1.PT" tvg-logo="https://static.epg.best/pt/Rtp1.pt.png",RTP 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.ZaWJlf
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="619" tvg-id="1RU.RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png",Первый
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.2e3FtB
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="620" tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png",Russia 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.lIvtuJ
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="621" tvg-id="CTC.RU" tvg-logo="https://static.epg.best/ru/STS.ru.png",СТС
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.UGFmuH
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="622" tvg-id="THT.RU" tvg-logo="https://static.epg.best/ru/TNTInternational.ru.png",ТНТ
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.fLosBW
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="623" tvg-id="UA1.UA" tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png",UA:Перший
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.OK14OR
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="624" tvg-id="1TV.KZ" tvg-logo="https://1tv.kz/wp-content/uploads/2020/01/1TV_02.png",Первый канал Евразия
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.4P0gor
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="625" tvg-id="BVN.NL" tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png",BVN
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.xT0PM5
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="626" tvg-id="EEN.BE" tvg-logo="https://static.epg.best/be/een.be.png",één
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.tqPutN
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="627" tvg-id="JOJ.SK" tvg-logo="https://img.joj.sk/rx/logojoj.png",Joj
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.R5iTfC
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="628" tvg-id="PO1.PL" tvg-logo="https://static.epg.best/pl/Polsat.pl.png",Polsat 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.v8AHRi
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="629" tvg-id="LRT.LT" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png",LRT Lituanica
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.kk87VG
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="630" tvg-id="SV1.SE" tvg-logo="https://static.epg.best/se/SVT1.se.png",SVT1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.7YRlrR
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="631" tvg-id="NR1.NO" tvg-logo="https://static.epg.best/no/NRK1.no.png",NRK 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.pnqPoa
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="632" tvg-id="DR1.DK" tvg-logo="https://static.epg.best/dk/DR1.dk.png",DR 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.JZ%2BdY%2F
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="633" tvg-id="ETV.EE" tvg-logo="https://static.epg.best/ee/ETV.ee.png",ETV
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.2f9avi
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="634" tvg-id="TVI.RO" tvg-logo="http://tvri.tvr.ro/images/logo_main_tvri.png",TVR International
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.fiI5Id
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="635" tvg-id="AN1.GR" tvg-logo="http://www.worldtvpc.com/onlinevideosites/img/ant1.jpg",ANT1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.zoRO11
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="636" tvg-id="HR1.HR" tvg-logo="https://static.epg.best/hr/Htv1.hr.png",HRT 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.%2FxInNA
+
+#EXTINF:-1 group-title="欧洲精选" tvg-chno="637" tvg-id="RT1.AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1920px-RTSH_1_HD_%282020_Logo%29.svg.png",RTSH 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.onP0Iv
+
+#EXTINF:-1 group-title="中东精选" tvg-chno="638" tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png",MBC 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.wPjWSc
+
+#EXTINF:-1 group-title="中东精选" tvg-chno="639" tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png",Abu Dhabi Al Oula
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.RSPLAQ
+
+#EXTINF:-1 group-title="中东精选" tvg-chno="640" tvg-id="LBI.LB" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png",LBC International
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.tzkHPX
+
+#EXTINF:-1 group-title="中东精选" tvg-chno="641" tvg-id="ROT.EG" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png",Rotana Drama
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.atZ9Wp
+
+#EXTINF:-1 group-title="中东精选" tvg-chno="642" tvg-id="NES.TN" tvg-logo="https://www.nessma.tv/images/apple-icon-57x57.png",Nessma
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.jAeBt1
+
+#EXTINF:-1 group-title="中东精选" tvg-chno="643" tvg-id="2MD.MA" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png",2M Monde
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.hM65vX
+
+#EXTINF:-1 group-title="中东精选" tvg-chno="644" tvg-id="TR1.TR" tvg-logo="https://static.epg.best/tr/TRT1.tr.png",TRT 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.e9pz0D
+
+#EXTINF:-1 group-title="中东精选" tvg-chno="645" tvg-id="KAN.TR" tvg-logo="https://static.epg.best/tr/KanalD.tr.png",Kanal D
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.5AAyLP
+
+#EXTINF:-1 group-title="中东精选" tvg-chno="646" tvg-id="STA.TR" tvg-logo="https://static.epg.best/tr/StarTV.tr.png",Star
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.Xz6ogH
+
+#EXTINF:-1 group-title="中东精选" tvg-chno="647" tvg-id="SHO.TR" tvg-logo="https://static.epg.best/tr/ShowTV.tr.png",Show
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.bGJ4eR
+
+#EXTINF:-1 group-title="中东精选" tvg-chno="648" tvg-id="IR1.IR" tvg-logo="https://static.epg.best/ir/TV1English.ir.png",IRIB 1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.fCZxr9
+
+#EXTINF:-1 group-title="中东精选" tvg-chno="649" tvg-id="IRV.IR" tvg-logo="https://static.epg.best/ir/VarzeshFarsi.ir.png",IRIB Varzesh
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.j248I4
+
+#EXTINF:-1 group-title="中东精选" tvg-chno="650" tvg-id="11.IL" tvg-logo="https://static.epg.best/il/Kan11.il.png",Kan 11
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.AATIoe
+
+#EXTINF:-1 group-title="中东精选" tvg-chno="651" tvg-id="R13.IL" tvg-logo="https://static.epg.best/il/13Reshet.il.png",Reshet 13
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=2.lLSi%2FP
+
+#EXTINF:-1 tvg-chno="652" tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.rLW8zO
+
+#EXTINF:-1 tvg-chno="653" tvg-id="cctv2" tvg-logo="cctv2.png",CCTV-2 财经
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.joryLv
+
+#EXTINF:-1 tvg-chno="654" tvg-id="cctv3" tvg-logo="cctv3.png",CCTV-3 综艺
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.K23hyL
+
+#EXTINF:-1 tvg-chno="655" tvg-id="cctv4" tvg-logo="cctv4.png",CCTV-4 中文国际
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.URMIb%2F
+
+#EXTINF:-1 tvg-chno="656" tvg-id="cctv5" tvg-logo="cctv5.png",CCTV-5 体育
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.Oln3pL
+
+#EXTINF:-1 tvg-chno="657" tvg-id="cctv5plus" tvg-logo="cctv5+.png",CCTV-5+ 体育赛事
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.Dfu7I0
+
+#EXTINF:-1 tvg-chno="658" tvg-id="cctv6" tvg-logo="cctv6.png",CCTV-6 电影
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.nMVgvB
+
+#EXTINF:-1 tvg-chno="659" tvg-id="cctv7" tvg-logo="cctv7.png",CCTV-7 国防军事
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.QWKKJj
+
+#EXTINF:-1 tvg-chno="660" tvg-id="cctv8" tvg-logo="cctv8.png",CCTV-8 电视剧
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.1xGL4o
+
+#EXTINF:-1 tvg-chno="661" tvg-id="cctvjilu" tvg-logo="cctv9.png",CCTV-9 纪录
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.FVEqfW
+
+#EXTINF:-1 tvg-chno="662" tvg-id="cctv10" tvg-logo="cctv10.png",CCTV-10 科教
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.zQ5%2FAh
+
+#EXTINF:-1 tvg-chno="663" tvg-id="cctv11" tvg-logo="cctv11.png",CCTV-11 戏曲
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.JwsBRO
+
+#EXTINF:-1 tvg-chno="664" tvg-id="cctv12" tvg-logo="cctv12.png",CCTV-12 社会与法
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.ywdba1
+
+#EXTINF:-1 tvg-chno="665" tvg-id="cctv13" tvg-logo="cctv13.png",CCTV-13 新闻
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.lCLqQl
+
+#EXTINF:-1 tvg-chno="666" tvg-id="cctvchild" tvg-logo="cctvchild.png",CCTV-14 少儿
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.cZGH%2Be
+
+#EXTINF:-1 tvg-chno="667" tvg-id="cctv15" tvg-logo="cctv15.png",CCTV-15 音乐
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.NoELLW
+
+#EXTINF:-1 tvg-chno="668" tvg-id="cctv17" tvg-logo="cctv17.png",CCTV-17 农业农村
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.dFRJxX
+
+#EXTINF:-1 tvg-chno="669" tvg-id="cetv1" tvg-logo="cetv1.png",CETV-1
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.Y8SUzW
+
+#EXTINF:-1 tvg-chno="670" tvg-id="cetv2" tvg-logo="cetv2.png",CETV-2
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.YSuupV
+
+#EXTINF:-1 tvg-chno="671" tvg-id="cetv4" tvg-logo="cetv4.png",CETV-4
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.K8Tx5w
+
+#EXTINF:-1 tvg-chno="672" tvg-id="guangdong" tvg-logo="guangdong.png",广东卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.QG2IN9
+
+#EXTINF:-1 tvg-chno="673" tvg-id="dongnan" tvg-logo="dongnan.png",东南卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.Kg5HK0
+
+#EXTINF:-1 tvg-chno="674" tvg-id="dongfang" tvg-logo="dongfang.png",东方卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.1Qpnyz
+
+#EXTINF:-1 tvg-chno="675" tvg-id="btv1" tvg-logo="btv1.png",北京卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.0yDX%2Bw
+
+#EXTINF:-1 tvg-chno="676" tvg-id="btvjishi" tvg-logo="btvjishi.png",北京纪实
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.bVCHeA
+
+#EXTINF:-1 tvg-chno="677" tvg-id="tvs-2" tvg-logo="tvs-2.png",南方卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.k5%2BMFC
+
+#EXTINF:-1 tvg-chno="678" tvg-id="xiamen" tvg-logo="xiamen.png",厦门卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.YnYYKX
+
+#EXTINF:-1 tvg-chno="679" tvg-id="tianjin" tvg-logo="tianjin.png",天津卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.oaP0M8
+
+#EXTINF:-1 tvg-chno="680" tvg-id="anhui" tvg-logo="anhui.png",安徽卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.bPF0mu
+
+#EXTINF:-1 tvg-chno="681" tvg-id="shandong" tvg-logo="shandong.png",山东卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.ljGOKm
+
+#EXTINF:-1 tvg-chno="682" tvg-id="jiangsu" tvg-logo="jiangsu.png",江苏卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.ZGUhIp
+
+#EXTINF:-1 tvg-chno="683" tvg-id="jiangxi" tvg-logo="jiangxi.png",江西卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.uKPvOf
+
+#EXTINF:-1 tvg-chno="684" tvg-id="hebei" tvg-logo="hebei.png",河北卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.gnKiyi
+
+#EXTINF:-1 tvg-chno="685" tvg-id="zhejiang" tvg-logo="zhejiang.png",浙江卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.Bsq%2FnL
+
+#EXTINF:-1 tvg-chno="686" tvg-id="shenzhen" tvg-logo="shenzhen.png",深圳卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.Idqxev
+
+#EXTINF:-1 tvg-chno="687" tvg-id="hubei" tvg-logo="hubei.png",湖北卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.k%2F%2Bfqy
+
+#EXTINF:-1 tvg-chno="688" tvg-id="hunan" tvg-logo="hunan.png",湖南卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.xXKMUx
+
+#EXTINF:-1 tvg-chno="689" tvg-id="chongqing" tvg-logo="chongqing.png",重庆卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.OXxo5z
+
+#EXTINF:-1 tvg-chno="690" tvg-id="heilongjiang" tvg-logo="heilongjiang.png",黑龙江卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.zskqCJ
+
+#EXTINF:-1 tvg-chno="691" tvg-id="sichuan" tvg-logo="sichuan.png",四川卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.NPKA39
+
+#EXTINF:-1 tvg-chno="692" tvg-id="yunnan" tvg-logo="yunnan.png",云南卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.tSeqHg
+
+#EXTINF:-1 tvg-chno="693" tvg-id="ningxia" tvg-logo="ningxia.png",宁夏卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.L1ChYu
+
+#EXTINF:-1 tvg-chno="694" tvg-id="bingtuan" tvg-logo="bingtuan.png",兵团卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.17k8QJ
+
+#EXTINF:-1 tvg-chno="695" tvg-id="neimenggu" tvg-logo="neimenggu.png",内蒙古卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.NUX4MI
+
+#EXTINF:-1 tvg-chno="696" tvg-id="nonglin" tvg-logo="nonglin.png",农林卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.QWbywG
+
+#EXTINF:-1 tvg-chno="697" tvg-id="shan1xi" tvg-logo="shan1xi.png",山西卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.O8ePWb
+
+#EXTINF:-1 tvg-chno="698" tvg-id="guangxi" tvg-logo="guangxi.png",广西卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.DdThrs
+
+#EXTINF:-1 tvg-chno="699" tvg-id="kangba" tvg-logo="kangba.png",康巴卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.M8Uj03
+
+#EXTINF:-1 tvg-chno="700" tvg-id="yanbian" tvg-logo="yanbian.png",延边卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.ckmFgP
+
+#EXTINF:-1 tvg-chno="701" tvg-id="xinjiang" tvg-logo="xinjiang.png",新疆卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.7y6HFI
+
+#EXTINF:-1 tvg-chno="702" tvg-id="gansu" tvg-logo="gansu.png",甘肃卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.SfCdIW
+
+#EXTINF:-1 tvg-chno="703" tvg-id="anduo" tvg-logo="anduo.png",安多卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.564sk9
+
+#EXTINF:-1 tvg-chno="704" tvg-id="ningxia" tvg-logo="ningxia.png",宁夏卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.L1ChYu.1
+
+#EXTINF:-1 tvg-chno="705" tvg-id="xizang" tvg-logo="xizang.png",西藏卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.6UvJp1
+
+#EXTINF:-1 tvg-chno="706" tvg-id="guizhou" tvg-logo="guizhou.png",贵州卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.DIQaiD
+
+#EXTINF:-1 tvg-chno="707" tvg-id="henan" tvg-logo="henan.png",河南卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.toDVcp
+
+#EXTINF:-1 tvg-chno="708" tvg-id="liaoning" tvg-logo="liaoning.png",辽宁卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.m3TfQj
+
+#EXTINF:-1 tvg-chno="709" tvg-id="shanxi" tvg-logo="shanxi.png",陕西卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.TiADlh
+
+#EXTINF:-1 tvg-chno="710" tvg-id="qinghai" tvg-logo="qinghai.png",青海卫视
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.vEDZiV
+
+#EXTINF:-1 tvg-chno="711" tvg-id="shanghaijishi" tvg-logo="shanghaijishi.png",纪实人文
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.nTF5fF
+
+#EXTINF:-1 tvg-chno="712" tvg-id="sdetv" tvg-logo="sdetv.png",山东教育电视台
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.V%2FLrfd
+
+#EXTINF:-1 tvg-chno="713" tvg-id="newtvbj" tvg-logo="newtvbj.png",NewTV世界搏击
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.Kavzer
+
+#EXTINF:-1 tvg-chno="714" tvg-id="newtvjk" tvg-logo="newtvjk.png",NewTV健康有约
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.s0hyqG
+
+#EXTINF:-1 tvg-chno="715" tvg-id="newtvjs" tvg-logo="newtvjs.png",NewTV军事评论
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.77wddM
+
+#EXTINF:-1 tvg-chno="716" tvg-id="newtvgz" tvg-logo="newtvgz.png",NewTV古装剧场
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.xLo0aa
+
+#EXTINF:-1 tvg-chno="717" tvg-id="newjunlv" tvg-logo="newtvjunlv.png",NewTV军旅剧场
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.rFSxAh
+
+#EXTINF:-1 tvg-chno="718" tvg-id="newtvnongye" tvg-logo="newtvnongye.png",NewTV农业致富
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.Ak3%2Brv
+
+#EXTINF:-1 tvg-chno="719" tvg-id="newtvdz" tvg-logo="newtvdz.png",NewTV动作电影
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.mGKnjX
+
+#EXTINF:-1 tvg-chno="720" tvg-id="newtvjt" tvg-logo="newtvjt.png",NewTV家庭剧场
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.T8RiXl
+
+#EXTINF:-1 tvg-chno="721" tvg-id="newtvjsdy" tvg-logo="newtvjsdy.png",NewTV惊悚电影
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.g%2Bb%2FS3
+
+#EXTINF:-1 tvg-chno="722" tvg-id="newtvcmlapo" tvg-logo="newtvcmlapo.png",NewTV潮妈辣婆
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.ua18OT
+
+#EXTINF:-1 tvg-chno="723" tvg-id="newtvxwwl" tvg-logo="newtvxwwl.png",NewTV炫舞未来
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.K14TVA
+
+#EXTINF:-1 tvg-chno="724" tvg-id="newtvaqxj" tvg-logo="newtvaqxj.png",NewTV爱情喜剧
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.%2Fu1Zyj
+
+#EXTINF:-1 tvg-chno="725" tvg-id="newtvtiyu" tvg-logo="newtvtiyu.png",NewTV精品体育
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.qpN2cP
+
+#EXTINF:-1 tvg-chno="726" tvg-id="newtvjp" tvg-logo="newtvjp.png",NewTV精品大剧
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.G8%2Frde
+
+#EXTINF:-1 tvg-chno="727" tvg-id="newtvjl" tvg-logo="newtvjl.png",NewTV精品纪录
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.pm149d
+
+#EXTINF:-1 tvg-chno="728" tvg-id="newtvzongyi" tvg-logo="newtvzongyi.png",NewTV金牌综艺
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.ZItWlY
+
+#EXTINF:-1 tvg-chno="729" tvg-id="newtvgf" tvg-logo="newtvgf.png",NewTV中国功夫
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.jt0zMu
+
+#EXTINF:-1 tvg-chno="730" tvg-id="newtvrbjx" tvg-logo="newtvrbjx.png",NewTV热播精选
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.HKtUN2
+
+#EXTINF:-1 tvg-chno="731" tvg-id="newtvjpzh" tvg-logo="newtvjpzh.png",NewTV精品综合
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.ijtsOi
+
+#EXTINF:-1 tvg-chno="732" tvg-id="hmdj" tvg-logo="hmdj.png",NewTV黑莓电竞之夜
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.SXmM2x
+
+#EXTINF:-1 tvg-chno="733" tvg-id="hmdy" tvg-logo="hmdy.png",NewTV黑莓电影
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.rVajZe
+
+#EXTINF:-1 tvg-chno="734" tvg-id="hmdh" tvg-logo="hmdh.png",NewTV黑莓动画
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.EzFqZ0
+
+#EXTINF:-1 tvg-chno="735" tvg-id="btvchild" tvg-logo="btvchild.png",卡酷少儿
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.gHTTxT
+
+#EXTINF:-1 tvg-chno="736" tvg-id="jjkt" tvg-logo="jjkt.png",嘉佳卡通
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.j9womw
+
+#EXTINF:-1 tvg-chno="737" tvg-id="xdkt" tvg-logo="xdkt.png",炫动卡通
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.axTJSR
+
+#EXTINF:-1 tvg-chno="738" tvg-id="jykt" tvg-logo="jykt.png",金鹰卡通
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.03tB5m
+
+#EXTINF:-1 tvg-chno="739" tvg-id="JSTV-youmankatong" tvg-logo="ymkt.png",优漫卡通
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.9tHgAc
+
+#EXTINF:-1 tvg-chno="740" tvg-id="meishi" tvg-logo="meishi.png",中华美食
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.fvM3j2
+
+#EXTINF:-1 tvg-chno="741" tvg-id="4K" tvg-logo="4K.png",纯享4K
+plugin://plugin.program.iptv.merge/?_=play_channel&slug=6.YzwBB0
